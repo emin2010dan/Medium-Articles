@@ -17,7 +17,7 @@ Doğuşu](https://medium.com/p/6bdc6dd4f3d0)\]
 
 <figure id="4a80" class="graf graf--figure graf-after--p">
 <img src="./images/b6ffc8b93189311d0b2ce5fe40122ec19bdb35f7.png"
-class="graf-image" data-image-id="1*nEa_yDgXnHgttgSYYzu9Ag.png"
+class="graf-image" ![]( ./images/1_nEa_yDgXnHgttgSYYzu9Ag.png)
 data-width="1408" data-height="768" />
 </figure>
 

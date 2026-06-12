@@ -19,7 +19,7 @@ Prepare](https://medium.com/p/9653ed8dd423)\]
 <figure id="7d3e"
 class="graf graf--figure graf-after--p graf--trailing">
 <img src="./images/88734e1d2c47f830792e46390c4723c4d11efefe.jpg"
-class="graf-image" data-image-id="1*-O7IwB-9G6N29Lx__cYoIg.jpeg"
+class="graf-image" ![]( ./images/1_-O7IwB-9G6N29Lx__cYoIg.jpeg)
 data-width="2304" data-height="1792" />
 </figure>
 

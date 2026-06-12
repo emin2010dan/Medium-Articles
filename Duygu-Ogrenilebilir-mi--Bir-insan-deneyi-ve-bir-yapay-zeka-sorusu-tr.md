@@ -21,7 +21,7 @@ question](https://medium.com/p/c23e737d682f)\]
 
 <figure id="162e" class="graf graf--figure graf-after--p">
 <img src="./images/ab38f3c88b063f469a9ec24e2e753ce086418a7f.png"
-class="graf-image" data-image-id="1*vF6LJ2YvzoW0mTntqrqQQQ.png"
+class="graf-image" ![]( ./images/1_vF6LJ2YvzoW0mTntqrqQQQ.png)
 data-width="1408" data-height="768" />
 </figure>
 

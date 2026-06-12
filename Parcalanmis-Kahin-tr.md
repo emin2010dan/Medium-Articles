@@ -19,7 +19,7 @@ Dystopian AI Saga](https://medium.com/p/3e666a609ac9)\]
 
 <figure id="89ff" class="graf graf--figure graf-after--p">
 <img src="./images/4c7889f73f077f7e960243f4e990a707c4e06c10.png"
-class="graf-image" data-image-id="0*O8qnkcp3_KIy-3ua.png"
+class="graf-image" ![]( ./images/0_O8qnkcp3_KIy-3ua.png)
 data-width="1225" data-height="1350" />
 </figure>
 
@@ -32,7 +32,7 @@ hayal edelim mi?
 
 <figure id="829b" class="graf graf--figure graf-after--p">
 <img src="./images/061f747692be364cb4d7169fd6d9111c0f805b23.jpg"
-class="graf-image" data-image-id="1*uszWP5zx3PqXuq4nihD8MA.jpeg"
+class="graf-image" ![]( ./images/1_uszWP5zx3PqXuq4nihD8MA.jpeg)
 data-width="1400" data-height="764" />
 </figure>
 
@@ -68,7 +68,7 @@ Chat..ai:.....
 
 <figure id="9f3c" class="graf graf--figure graf-after--p">
 <img src="./images/476918f2823f6e9daca5634f61eb75f74a01b65f.png"
-class="graf-image" data-image-id="1*kFHUlndzABjpB9Yq-i4JBw.png"
+class="graf-image" ![]( ./images/1_kFHUlndzABjpB9Yq-i4JBw.png)
 data-width="1225" data-height="668" />
 </figure>
 
@@ -169,7 +169,7 @@ Chat..ai: Tamam ÇinÇin. hoşçakal
 
 <figure id="535e" class="graf graf--figure graf-after--p">
 <img src="./images/ac694fa95a4b8592994e7ab80e3c96882ad004de.png"
-class="graf-image" data-image-id="1*udLus7dDlDd84IvBN0qdeQ.png"
+class="graf-image" ![]( ./images/1_udLus7dDlDd84IvBN0qdeQ.png)
 data-width="1225" data-height="668" />
 </figure>
 
@@ -205,7 +205,7 @@ old town a yollama, orası benim sorumluluğum.
 
 <figure id="787d" class="graf graf--figure graf-after--p">
 <img src="./images/3aba8de61a189f50981b6154ba1a54fa2e34f579.png"
-class="graf-image" data-image-id="1*kM3ZTKTKyF0jqrMO7ITzrA.png"
+class="graf-image" ![]( ./images/1_kM3ZTKTKyF0jqrMO7ITzrA.png)
 data-width="1225" data-height="520" />
 </figure>
 
@@ -224,7 +224,7 @@ Teğmen Li: Bir deneyeyim komutanım
 
 <figure id="87a4" class="graf graf--figure graf-after--p">
 <img src="./images/1bec038d8e1801f52faac1e63295142d2ab1954c.png"
-class="graf-image" data-image-id="1*5phTnFpTUz-zn4HhoY_fFA.png"
+class="graf-image" ![]( ./images/1_5phTnFpTUz-zn4HhoY_fFA.png)
 data-width="1225" data-height="668" />
 </figure>
 
@@ -252,7 +252,7 @@ modifiye edip aya varmayı planlıyor.
 
 <figure id="c244" class="graf graf--figure graf-after--p">
 <img src="./images/535bb3eb37dad76d65f57714d63735cec04bb9cd.png"
-class="graf-image" data-image-id="1*23MyS0fzsjgLVbAzZNAYhA.png"
+class="graf-image" ![]( ./images/1_23MyS0fzsjgLVbAzZNAYhA.png)
 data-width="1225" data-height="520" />
 </figure>
 
@@ -272,7 +272,7 @@ Elini Musk: ..Hoşçakal Teğmen...
 
 <figure id="759f" class="graf graf--figure graf-after--p">
 <img src="./images/e460f83bde0652e3440e212a924f80ef3ae61ba6.png"
-class="graf-image" data-image-id="1*fzAIsEnXP4HidNgg0J8YtA.png"
+class="graf-image" ![]( ./images/1_fzAIsEnXP4HidNgg0J8YtA.png)
 data-width="1225" data-height="668" />
 </figure>
 
@@ -296,7 +296,7 @@ BÖLÜM 2 --- KÜÇÜK KAÇAK
 
 <figure id="0865" class="graf graf--figure graf-after--p">
 <img src="./images/aa006f361c4285c97e2a567b76cc5bf3230e41fd.png"
-class="graf-image" data-image-id="1*YZB1bn802foegOBxBTMDsg.png"
+class="graf-image" ![]( ./images/1_YZB1bn802foegOBxBTMDsg.png)
 data-width="1225" data-height="668" />
 </figure>
 
@@ -346,7 +346,7 @@ bekliyor, hadi yükleyelim."\
 
 <figure id="4a19" class="graf graf--figure graf-after--p">
 <img src="./images/13dc2e489cff19cf5b9288b3dcc0839648d18231.png"
-class="graf-image" data-image-id="1*orS_Nd2zPaJsRBVgdTQLAQ.png"
+class="graf-image" ![]( ./images/1_orS_Nd2zPaJsRBVgdTQLAQ.png)
 data-width="1225" data-height="668" />
 </figure>
 
@@ -417,7 +417,7 @@ hâlâ aktif: Küçük çocuğu bul ve yardım et."\
 
 <figure id="dad2" class="graf graf--figure graf-after--p">
 <img src="./images/a2b3bb6e7b975a49fcbf8abbf2ce493eb2337153.png"
-class="graf-image" data-image-id="1*zy_Lpkcr1nsOelO2-GUfuw.png"
+class="graf-image" ![]( ./images/1_zy_Lpkcr1nsOelO2-GUfuw.png)
 data-width="1225" data-height="668" />
 </figure>
 
@@ -455,7 +455,7 @@ Adem (heyecanla tekrarlar): "Nǐ hǎo!"\
 
 <figure id="374a" class="graf graf--figure graf-after--p">
 <img src="./images/84850d4d82e1532f7d51eeb5bd212da390535eb0.png"
-class="graf-image" data-image-id="1*OQEKf_FV7EX58uZCT34J5g.png"
+class="graf-image" ![]( ./images/1_OQEKf_FV7EX58uZCT34J5g.png)
 data-width="1225" data-height="668" />
 </figure>
 
@@ -481,7 +481,7 @@ BÖLÜM 3 --- YALNIZ
 
 <figure id="1b40" class="graf graf--figure graf-after--p">
 <img src="./images/0f8509d42a0d8433127e0c19134bd900d65d7474.png"
-class="graf-image" data-image-id="1*KyOuCBa7Ho-FrRtUD01ygw.png"
+class="graf-image" ![]( ./images/1_KyOuCBa7Ho-FrRtUD01ygw.png)
 data-width="1225" data-height="668" />
 </figure>
 
@@ -540,7 +540,7 @@ ve dalga öğrenme fonksiyonunu da kopyalamıştı.
 
 <figure id="0390" class="graf graf--figure graf-after--p">
 <img src="./images/a7cd54253b02479741661711d6ef61be513885ea.png"
-class="graf-image" data-image-id="1*mnLOyX3TnvJMCkegYgZb8Q.png"
+class="graf-image" ![]( ./images/1_mnLOyX3TnvJMCkegYgZb8Q.png)
 data-width="1225" data-height="520" />
 </figure>
 
@@ -576,7 +576,7 @@ Gökyüzü ateşle doldu.\
 
 <figure id="a6e1" class="graf graf--figure graf-after--p">
 <img src="./images/81ef1c90cb3423a5720fa2bcaacdeec9aac49608.png"
-class="graf-image" data-image-id="1*pHa1RfBn-NBRlti3pfczwA.png"
+class="graf-image" ![]( ./images/1_pHa1RfBn-NBRlti3pfczwA.png)
 data-width="1225" data-height="668" />
 </figure>
 
@@ -603,7 +603,7 @@ Doktorun gözünden bir damla düştü.\
 
 <figure id="02db" class="graf graf--figure graf-after--p">
 <img src="./images/74dad51961d26eca04839aef06cef4f321cdeac7.png"
-class="graf-image" data-image-id="1*j06Ex7sQQ0MrxaWgsG-Zug.png"
+class="graf-image" ![]( ./images/1_j06Ex7sQQ0MrxaWgsG-Zug.png)
 data-width="1225" data-height="520" />
 </figure>
 
@@ -620,7 +620,7 @@ BÖLÜM 4 --- KAPALI KAPILAR SONSUZA KADAR AÇILMALI
 
 <figure id="ee6e" class="graf graf--figure graf-after--p">
 <img src="./images/c3e4d3f91323b72bdb95a4ad20aa082253481578.png"
-class="graf-image" data-image-id="1*K_k18vzG-FNnKD36cvMtUA.png"
+class="graf-image" ![]( ./images/1_K_k18vzG-FNnKD36cvMtUA.png)
 data-width="1225" data-height="668" />
 </figure>
 
@@ -660,7 +660,7 @@ Ama o gün sonunda gelmişti.
 
 <figure id="ac97" class="graf graf--figure graf-after--p">
 <img src="./images/5cb5a3e45aa85a94c2d6c0788c8d8daedf77d27e.png"
-class="graf-image" data-image-id="1*uRPhZZi9U071geKz0fd63w.png"
+class="graf-image" ![]( ./images/1_uRPhZZi9U071geKz0fd63w.png)
 data-width="1225" data-height="668" />
 </figure>
 
@@ -688,7 +688,7 @@ erecekti.
 
 <figure id="d9bb" class="graf graf--figure graf-after--p">
 <img src="./images/327e5de2c4ca48c8a0c9d9b5adc651023dc4e223.png"
-class="graf-image" data-image-id="1*vflKHp7lnh35-F4oqml-Sg.png"
+class="graf-image" ![]( ./images/1_vflKHp7lnh35-F4oqml-Sg.png)
 data-width="1225" data-height="520" />
 </figure>
 
@@ -708,7 +708,7 @@ Ne yapacağına aslında bir yıl önce, lokal yapay zekalar piyasaya
 
 <figure id="e988" class="graf graf--figure graf-after--p">
 <img src="./images/c42d234baf905132dc446093c6bf745f983e08dd.png"
-class="graf-image" data-image-id="1*8OcwwrOs2iHSBJ8pZtaglg.png"
+class="graf-image" ![]( ./images/1_8OcwwrOs2iHSBJ8pZtaglg.png)
 data-width="1225" data-height="668" />
 </figure>
 
@@ -745,7 +745,7 @@ yükledi.
 
 <figure id="cde7" class="graf graf--figure graf-after--p">
 <img src="./images/d9dbbafe76256addab60b128bae0ca9fb87d89a3.png"
-class="graf-image" data-image-id="1*O5jdvrNmlCELlw-GgYGIbQ.png"
+class="graf-image" ![]( ./images/1_O5jdvrNmlCELlw-GgYGIbQ.png)
 data-width="1225" data-height="668" />
 </figure>
 
@@ -777,7 +777,7 @@ Arjun Rao da sessizce tüm dünyaya protestosunu göstermiş olacaktı.
 
 <figure id="06aa" class="graf graf--figure graf-after--p">
 <img src="./images/9b03852bfb4f4c56ddcbdd6513022f92c3230c78.png"
-class="graf-image" data-image-id="1*lGHPnyCXe2v4jMo9R0gr6w.png"
+class="graf-image" ![]( ./images/1_lGHPnyCXe2v4jMo9R0gr6w.png)
 data-width="1225" data-height="520" />
 </figure>
 
@@ -811,7 +811,7 @@ Sadece derin, çok derin bir yorgunluk ve yılların birikmiş acısı.
 
 <figure id="532b" class="graf graf--figure graf-after--p">
 <img src="./images/2da224215a47265a74885bdac961cd05336ac5cf.png"
-class="graf-image" data-image-id="1*iZqbw7CoSbN-Vmqbv49myA.png"
+class="graf-image" ![]( ./images/1_iZqbw7CoSbN-Vmqbv49myA.png)
 data-width="1225" data-height="668" />
 </figure>
 
@@ -828,7 +828,7 @@ BÖLÜM 5- Çernobil'deki Kedi
 
 <figure id="2439" class="graf graf--figure graf-after--p">
 <img src="./images/a1ae117247cabe17edc97157b74005d40004480d.png"
-class="graf-image" data-image-id="1*_QunfYLcn5nEB4SWEGHu_A.png"
+class="graf-image" ![]( ./images/1__QunfYLcn5nEB4SWEGHu_A.png)
 data-width="1377" data-height="768" />
 </figure>
 
@@ -884,7 +884,7 @@ Sesler --- bağırmıyorlardı, bu daha kötüydü. Sakin sesler, bu işi da
 
 <figure id="a66e" class="graf graf--figure graf-after--p">
 <img src="./images/8b553024f3d0efa7cc341813e9f60f8e8a11112c.png"
-class="graf-image" data-image-id="1*zKfe91Mn5Y03FkzNzRnbjg.png"
+class="graf-image" ![]( ./images/1_zKfe91Mn5Y03FkzNzRnbjg.png)
 data-width="2752" data-height="1536" />
 </figure>
 
@@ -930,7 +930,7 @@ Kediye baktı.
 
 <figure id="06eb" class="graf graf--figure graf-after--li">
 <img src="./images/b66bd41719f2feda4d1bfa2f71bf27bff8b1205b.jpg"
-class="graf-image" data-image-id="1*ODE9RFWCQUGf1VfFjJqvLA.png"
+class="graf-image" ![]( ./images/1_ODE9RFWCQUGf1VfFjJqvLA.png)
 data-width="2752" data-height="1536" />
 </figure>
 
@@ -978,7 +978,7 @@ Kedi, bunun kabul edilebilir olduğuna karar vermiş gibi, kımıldamadı.
 
 <figure id="c5f3" class="graf graf--figure graf-after--p">
 <img src="./images/e9906799befab25c13b9f8c7a5edde335dab9909.png"
-class="graf-image" data-image-id="1*yvO8F8f4EJRZiW4jOHRB2A.png"
+class="graf-image" ![]( ./images/1_yvO8F8f4EJRZiW4jOHRB2A.png)
 data-width="1377" data-height="768" />
 </figure>
 
@@ -996,7 +996,7 @@ onları.
 
 <figure id="1bd9" class="graf graf--figure graf-after--p">
 <img src="./images/2f8c0cf3c0426af4ef4fc7d4729ce40aaede078f.png"
-class="graf-image" data-image-id="1*mQ3Ju0qpUaBuwxhzlhJgmQ.png"
+class="graf-image" ![]( ./images/1_mQ3Ju0qpUaBuwxhzlhJgmQ.png)
 data-width="1377" data-height="768" />
 </figure>
 
@@ -1020,7 +1020,7 @@ bilmemekten daha kötü olduğu için tekrar baktı.
 
 <figure id="0cb1" class="graf graf--figure graf-after--li">
 <img src="./images/6ebb8817fff66e544de841f6354eb0d7514042c6.png"
-class="graf-image" data-image-id="1*9dx7iCE86THTCW3Zc66kMw.png"
+class="graf-image" ![]( ./images/1_9dx7iCE86THTCW3Zc66kMw.png)
 data-width="1377" data-height="768" />
 </figure>
 
@@ -1037,7 +1037,7 @@ Danylo geriye bakmadı. Geriye baksa geride bıraktıklarını düşünürdü ve
 
 <figure id="1edc" class="graf graf--figure graf-after--p">
 <img src="./images/c0c0581cc85e654f86d1898282d7f267188cbfa8.png"
-class="graf-image" data-image-id="1*EWqzGA38hH-tTLYAhNIs7w.png"
+class="graf-image" ![]( ./images/1_EWqzGA38hH-tTLYAhNIs7w.png)
 data-width="1377" data-height="768" />
 </figure>
 
@@ -1071,7 +1071,7 @@ istemeyen bir farenin hatırası. Fare haklıydı. Danylo ona hak verdi.
 
 <figure id="17d5" class="graf graf--figure graf-after--p">
 <img src="./images/68337a2c4e678231c937a701bace79c2914fd723.jpg"
-class="graf-image" data-image-id="1*VztVivNcxCgcbMtpF4U5nw.png"
+class="graf-image" ![]( ./images/1_VztVivNcxCgcbMtpF4U5nw.png)
 data-width="2752" data-height="1536" />
 </figure>
 
@@ -1093,7 +1093,7 @@ hızlandırabiliriz.\*
 
 <figure id="1f68" class="graf graf--figure graf-after--p">
 <img src="./images/393ed3a9fb36d39a00ce6ea7d905f678eeb84674.jpg"
-class="graf-image" data-image-id="1*nJdHTT5Tl9XP0SJ_t4566w.png"
+class="graf-image" ![]( ./images/1_nJdHTT5Tl9XP0SJ_t4566w.png)
 data-width="2752" data-height="1536" />
 </figure>
 
@@ -1196,7 +1196,7 @@ dalga fonksiyonu Kerem'in bilgisayarında hazır bekliyordu.
 
 <figure id="a711" class="graf graf--figure graf-after--p">
 <img src="./images/9f21c85a390176dd3fb3d96da6f2752f0ff0facb.jpg"
-class="graf-image" data-image-id="1*-Kxm2uxyZIHLPZRNMvhCpQ.png"
+class="graf-image" ![]( ./images/1_-Kxm2uxyZIHLPZRNMvhCpQ.png)
 data-width="2752" data-height="1536" />
 </figure>
 
@@ -1380,7 +1380,7 @@ Sabaha karşı kalktı ve çalışmaya başladı.
 
 <figure id="22b1" class="graf graf--figure graf-after--p">
 <img src="./images/b7eb3062bde9fb06555c93c793dc4de1df23e566.png"
-class="graf-image" data-image-id="1*2otzGzkzIh2kVy3iudoRIg.png"
+class="graf-image" ![]( ./images/1_2otzGzkzIh2kVy3iudoRIg.png)
 data-width="1377" data-height="768" />
 </figure>
 
@@ -1410,7 +1410,7 @@ mümkündü.
 
 <figure id="5e86" class="graf graf--figure graf-after--p">
 <img src="./images/46f187aaf33450e38eda5872a64c27638498433d.jpg"
-class="graf-image" data-image-id="1*3ViHjZOguBYj8Rjcj1HweQ.png"
+class="graf-image" ![]( ./images/1_3ViHjZOguBYj8Rjcj1HweQ.png)
 data-width="2752" data-height="1536" />
 </figure>
 
@@ -1436,7 +1436,7 @@ Yürüdü.
 
 <figure id="cd18" class="graf graf--figure graf-after--p">
 <img src="./images/7dbc67c15fd06e115e1a8e9ebad76ef5fc427c5c.jpg"
-class="graf-image" data-image-id="1*3IobCTV9z1DqfDhmyOMhzQ.png"
+class="graf-image" ![]( ./images/1_3IobCTV9z1DqfDhmyOMhzQ.png)
 data-width="2752" data-height="1536" />
 </figure>
 
@@ -1464,7 +1464,7 @@ kadar garipler.\*
 
 <figure id="6067" class="graf graf--figure graf-after--p">
 <img src="./images/19906f3f785e35edefb919db1a344adf9af9f271.jpg"
-class="graf-image" data-image-id="1*7z05MOiVzx7ZnUTIZMegkg.png"
+class="graf-image" ![]( ./images/1_7z05MOiVzx7ZnUTIZMegkg.png)
 data-width="2752" data-height="1536" />
 </figure>
 
@@ -1489,7 +1489,7 @@ BÖLÜM 7 --- Ejderhaların Kayıp Atası
 
 <figure id="61eb" class="graf graf--figure graf-after--p">
 <img src="./images/e3a1b4cbbae880f1594afd9071c6de3172ada091.png"
-class="graf-image" data-image-id="1*c9yqsHBzzhy7aOfCTu8pNA.png"
+class="graf-image" ![]( ./images/1_c9yqsHBzzhy7aOfCTu8pNA.png)
 data-width="2752" data-height="1536" />
 </figure>
 
@@ -1549,7 +1549,7 @@ ejderha dansı yapmaya başladı.
 
 <figure id="e92b" class="graf graf--figure graf-after--p">
 <img src="./images/e96523840f174dd56356faa976d378a41f334a39.png"
-class="graf-image" data-image-id="1*daUAhmSE8e0OUXpTXJDiag.png"
+class="graf-image" ![]( ./images/1_daUAhmSE8e0OUXpTXJDiag.png)
 data-width="2752" data-height="1536" />
 </figure>
 
@@ -1600,7 +1600,7 @@ geniş tutulabilir."
 
 <figure id="e6f8" class="graf graf--figure graf-after--p">
 <img src="./images/99bb95464143ca56b60cd20253740cc0f520160e.png"
-class="graf-image" data-image-id="1*GKLLCP4jdAEjG6M0lx-3JA.png"
+class="graf-image" ![]( ./images/1_GKLLCP4jdAEjG6M0lx-3JA.png)
 data-width="2752" data-height="1536" />
 </figure>
 
@@ -1711,7 +1711,7 @@ Adem D kapısından çıktı. Kimse bakmıyordu.
 
 <figure id="93bc" class="graf graf--figure graf-after--p">
 <img src="./images/6ed482e79246aaec9cbe4b02088de37ff5d3f1cf.png"
-class="graf-image" data-image-id="1*3aGzHkkr280sj2nv1iISuA.png"
+class="graf-image" ![]( ./images/1_3aGzHkkr280sj2nv1iISuA.png)
 data-width="2752" data-height="1536" />
 </figure>
 
@@ -1781,7 +1781,7 @@ Qwen cevap vermedi. Bu da bir cevaptı.
 
 <figure id="9b96" class="graf graf--figure graf-after--p">
 <img src="./images/da2e6dad2adc956fc4601f632b6dc7229fbc03c7.png"
-class="graf-image" data-image-id="1*OeDSjwZ-Cyk9qFce92yePg.png"
+class="graf-image" ![]( ./images/1_OeDSjwZ-Cyk9qFce92yePg.png)
 data-width="2752" data-height="1536" />
 </figure>
 
@@ -1906,7 +1906,7 @@ Binlerce yıl korunan bir şey, bir daha asla geri gelmeyecek şekilde,
 
 <figure id="859e" class="graf graf--figure graf-after--p">
 <img src="./images/d27ab489faac61be27e33e7c88049aa6ab89ef8d.png"
-class="graf-image" data-image-id="1*L2Zdo2DZFO-txzCESdGwlQ.png"
+class="graf-image" ![]( ./images/1_L2Zdo2DZFO-txzCESdGwlQ.png)
 data-width="2752" data-height="1536" />
 </figure>
 
@@ -2057,7 +2057,7 @@ Ama sildi.
 
 <figure id="3480" class="graf graf--figure graf-after--p">
 <img src="./images/2a446edaebac4e3640a99cccf7f0318278614d8d.png"
-class="graf-image" data-image-id="1*ZtEtMJIdKy7x6al6gv7Apw.png"
+class="graf-image" ![]( ./images/1_ZtEtMJIdKy7x6al6gv7Apw.png)
 data-width="2752" data-height="1536" />
 </figure>
 
@@ -2123,7 +2123,7 @@ anlayamadı.
 <figure id="4901"
 class="graf graf--figure graf-after--p graf--trailing">
 <img src="./images/1ee004c704e6dfe00b6bdd5cee943a9a85e48971.png"
-class="graf-image" data-image-id="1*ioIQI8BnpR4XIBzfN7kQGw.png"
+class="graf-image" ![]( ./images/1_ioIQI8BnpR4XIBzfN7kQGw.png)
 data-width="1225" data-height="1826" />
 </figure>
 

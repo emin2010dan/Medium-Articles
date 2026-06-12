@@ -22,7 +22,7 @@ Emin • Contributor: Claude (Anthropic)
 <span class="image placeholder graf-image"
 ![](./images/1_CG5-UlDW4uiobYhM5xq0rg.png)
 data-original-image-title=""
-data-image-id="1*CG5-UlDW4uiobYhM5xq0rg.png" data-width="1408"
+![]( ./images/1_CG5-UlDW4uiobYhM5xq0rg.png) data-width="1408"
 data-height="768"></span>
 </figure>
 

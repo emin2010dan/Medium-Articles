@@ -22,7 +22,7 @@ olduğu gibi korunmuştur.*
 <figure id="7e72"
 class="graf graf--figure graf-after--p graf--trailing">
 <img src="./images/0aba8332bbade85bc99bfb957d5483b792de1abf.png"
-class="graf-image" data-image-id="1*FZYE6n0Eu0JqSGLm5shRlw.png"
+class="graf-image" ![]( ./images/1_FZYE6n0Eu0JqSGLm5shRlw.png)
 data-width="1408" data-height="768" />
 </figure>
 

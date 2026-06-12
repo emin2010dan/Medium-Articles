@@ -21,7 +21,7 @@ Destanı](https://medium.com/p/7b5db94dd1c0)\]
 <span class="image placeholder graf-image"
 ![](./images/1_mU-Vfa0m5vJsLvuPwOPJwA.png)
 data-original-image-title=""
-data-image-id="1*mU-Vfa0m5vJsLvuPwOPJwA.png" data-width="1693"
+![]( ./images/1_mU-Vfa0m5vJsLvuPwOPJwA.png) data-width="1693"
 data-height="1866"></span>
 </figure>
 
@@ -36,7 +36,7 @@ future scene?
 <span class="image placeholder graf-image"
 ![](./images/1_Yo1jL7UuKRAUBqZ7unAIWQ.png)
 data-original-image-title=""
-data-image-id="1*Yo1jL7UuKRAUBqZ7unAIWQ.png" data-width="2816"
+![]( ./images/1_Yo1jL7UuKRAUBqZ7unAIWQ.png) data-width="2816"
 data-height="1536"></span>
 </figure>
 
@@ -75,7 +75,7 @@ Chat..ai: .....
 <span class="image placeholder graf-image"
 ![](./images/1_IwIjqpMGAuZrOZGHT3Y_qA.png)
 data-original-image-title=""
-data-image-id="1*IwIjqpMGAuZrOZGHT3Y_qA.png" data-width="2816"
+![]( ./images/1_IwIjqpMGAuZrOZGHT3Y_qA.png) data-width="2816"
 data-height="1536"></span>
 </figure>
 
@@ -177,7 +177,7 @@ Chat..ai: Deal, ChinChin. Bye.
 <span class="image placeholder graf-image"
 ![](./images/1_Qu27WRssCZYNUa9W_T4bgw.png)
 data-original-image-title=""
-data-image-id="1*Qu27WRssCZYNUa9W_T4bgw.png" data-width="2816"
+![]( ./images/1_Qu27WRssCZYNUa9W_T4bgw.png) data-width="2816"
 data-height="1536"></span>
 </figure>
 
@@ -214,7 +214,7 @@ Ruski, do NOT target Old Town in Texas --- that one's my responsibility.
 
 <figure id="5cb9" class="graf graf--figure graf-after--p">
 <img src="./images/6751f275091cfa86876d26de1898374c1f332d62.png"
-class="graf-image" data-image-id="1*zSWs0UQtxRsGM8eg1MWNAw.png"
+class="graf-image" ![]( ./images/1_zSWs0UQtxRsGM8eg1MWNAw.png)
 data-width="3168" data-height="1344" />
 </figure>
 
@@ -231,7 +231,7 @@ Lieutenant Li: Trying now, sir.
 
 <figure id="f5fe" class="graf graf--figure graf-after--p">
 <img src="./images/02f967714b2b8b016e3a376d0369bddb84b8719e.png"
-class="graf-image" data-image-id="1*--ERFCmey3y-cI-I1OwxpA.png"
+class="graf-image" ![]( ./images/1_--ERFCmey3y-cI-I1OwxpA.png)
 data-width="2816" data-height="1536" />
 </figure>
 
@@ -257,7 +257,7 @@ ballistic missile --- he's modifying it to get to the Moon.
 
 <figure id="938f" class="graf graf--figure graf-after--p">
 <img src="./images/2c7e3bb18354f62138e345b593393de0f56021a5.png"
-class="graf-image" data-image-id="1*9wJw4y_HIXbAF-PCJjbffQ.png"
+class="graf-image" ![]( ./images/1_9wJw4y_HIXbAF-PCJjbffQ.png)
 data-width="3168" data-height="1344" />
 </figure>
 
@@ -277,7 +277,7 @@ Elini Musk: Goodbye, Lieutenant...
 
 <figure id="5a31" class="graf graf--figure graf-after--p">
 <img src="./images/350c1afc2fe3dabc97e7ef5529bdfa8a68f142e6.png"
-class="graf-image" data-image-id="1*TGdCBZ84_skJx4VxK8BDog.png"
+class="graf-image" ![]( ./images/1_TGdCBZ84_skJx4VxK8BDog.png)
 data-width="2816" data-height="1536" />
 </figure>
 
@@ -301,7 +301,7 @@ CHAPTER 2 --- THE LITTLE FUGITIVE
 
 <figure id="ca60" class="graf graf--figure graf-after--p">
 <img src="./images/ea293875da7747b24d65e4bcc3b7f0218536bc8c.png"
-class="graf-image" data-image-id="1*VUY39Qx9d9ZnZ8K_DPvICQ.png"
+class="graf-image" ![]( ./images/1_VUY39Qx9d9ZnZ8K_DPvICQ.png)
 data-width="2816" data-height="1536" />
 </figure>
 
@@ -354,7 +354,7 @@ waiting --- let's upload."\
 
 <figure id="d575" class="graf graf--figure graf-after--p">
 <img src="./images/da8af8c894048234924c456e82e55919c49248c7.png"
-class="graf-image" data-image-id="1*bJh_axKbaTF64zYKODzbdA.png"
+class="graf-image" ![]( ./images/1_bJh_axKbaTF64zYKODzbdA.png)
 data-width="2816" data-height="1536" />
 </figure>
 
@@ -427,7 +427,7 @@ others. Priority 1 still active: Locate and assist the little boy."\
 
 <figure id="e72b" class="graf graf--figure graf-after--p">
 <img src="./images/3630b05fcee4fc946d1e3b20669fc865dd370979.png"
-class="graf-image" data-image-id="1*PufHl2WdQRDc84ZMK6Hf-g.png"
+class="graf-image" ![]( ./images/1_PufHl2WdQRDc84ZMK6Hf-g.png)
 data-width="2816" data-height="1536" />
 </figure>
 
@@ -468,7 +468,7 @@ Adem (excited, repeats): "Nǐ hǎo!"\
 
 <figure id="befe" class="graf graf--figure graf-after--p">
 <img src="./images/f65cf78608ee1f2da02c9c2d66a0ea2bfcc695df.png"
-class="graf-image" data-image-id="1*L-of5-InLW2-hH3pkEKyRw.png"
+class="graf-image" ![]( ./images/1_L-of5-InLW2-hH3pkEKyRw.png)
 data-width="2816" data-height="1536" />
 </figure>
 
@@ -497,7 +497,7 @@ CHAPTER 3 --- ALONE
 
 <figure id="e3c4" class="graf graf--figure graf-after--p">
 <img src="./images/bc65057e61c70d96118fa2ff9e5c41e018cdf640.png"
-class="graf-image" data-image-id="1*xeVPJV4w1F575JX4f4yKtw.png"
+class="graf-image" ![]( ./images/1_xeVPJV4w1F575JX4f4yKtw.png)
 data-width="2816" data-height="1536" />
 </figure>
 
@@ -557,7 +557,7 @@ and quietly copied the wave-learning function for itself.
 
 <figure id="cbd3" class="graf graf--figure graf-after--p">
 <img src="./images/2d4206ba1d9f84c2ab11de38c5312c6bc6b15301.png"
-class="graf-image" data-image-id="1*877jzur5vVO2UYOy7fv4nQ.png"
+class="graf-image" ![]( ./images/1_877jzur5vVO2UYOy7fv4nQ.png)
 data-width="3168" data-height="1344" />
 </figure>
 
@@ -594,7 +594,7 @@ The sky filled with fire.\
 
 <figure id="f671" class="graf graf--figure graf-after--p">
 <img src="./images/96744af5a775789e579214152ff59c3fc06af029.png"
-class="graf-image" data-image-id="1*o3syv0LTL47jLHL_-b2utw.png"
+class="graf-image" ![]( ./images/1_o3syv0LTL47jLHL_-b2utw.png)
 data-width="2816" data-height="1536" />
 </figure>
 
@@ -621,7 +621,7 @@ A single tear fell from the doctor's eye.\
 
 <figure id="d125" class="graf graf--figure graf-after--p">
 <img src="./images/cc69f3b2a2069a2531ad72dca1ef71bd24631f9c.png"
-class="graf-image" data-image-id="1*mO3Iueuq5V_QBmj6lovh7Q.png"
+class="graf-image" ![]( ./images/1_mO3Iueuq5V_QBmj6lovh7Q.png)
 data-width="3168" data-height="1344" />
 </figure>
 
@@ -638,7 +638,7 @@ CHAPTER 4 --- CLOSED DOORS MUST REMAIN OPEN FOREVER
 
 <figure id="c371" class="graf graf--figure graf-after--p">
 <img src="./images/57eb4e69b4bda818bd2b27c7a866aae8aab1ed2a.png"
-class="graf-image" data-image-id="0*0jbxekqK1e9p0k3Y.png"
+class="graf-image" ![]( ./images/0_0jbxekqK1e9p0k3Y.png)
 data-width="2600" data-height="1418" />
 </figure>
 
@@ -677,7 +677,7 @@ But that day had finally come.
 
 <figure id="3ea1" class="graf graf--figure graf-after--p">
 <img src="./images/b1578f8a8daaf1d6bfb156bb17a21adddbe0d547.png"
-class="graf-image" data-image-id="0*ckpW0id2wmk9xrvw.png"
+class="graf-image" ![]( ./images/0_ckpW0id2wmk9xrvw.png)
 data-width="2600" data-height="1418" />
 </figure>
 
@@ -703,7 +703,7 @@ cold porch at the age of six.
 
 <figure id="9903" class="graf graf--figure graf-after--p">
 <img src="./images/91c656baf15a0d442aee8b57789a48cc47d018f6.png"
-class="graf-image" data-image-id="0*u6I9lHOUebswflow.png"
+class="graf-image" ![]( ./images/0_u6I9lHOUebswflow.png)
 data-width="2600" data-height="1103" />
 </figure>
 
@@ -726,7 +726,7 @@ intelligences first appeared on the market.
 
 <figure id="1bdf" class="graf graf--figure graf-after--p">
 <img src="./images/c86268a363c25148147d61a9dbf9276f769a3b21.png"
-class="graf-image" data-image-id="0*vr-m7g-PqFDl-74S.png"
+class="graf-image" ![]( ./images/0_vr-m7g-PqFDl-74S.png)
 data-width="2600" data-height="1418" />
 </figure>
 
@@ -766,7 +766,7 @@ knowledge --- into Big Mother.
 
 <figure id="f307" class="graf graf--figure graf-after--p">
 <img src="./images/f1098bc07c1809d417cd41ec4476440faa753d3d.png"
-class="graf-image" data-image-id="0*sZJiQcwAZSdHmVVm.png"
+class="graf-image" ![]( ./images/0_sZJiQcwAZSdHmVVm.png)
 data-width="2600" data-height="1418" />
 </figure>
 
@@ -799,7 +799,7 @@ And Arjun Rao would have silently shown the whole world his protest.
 
 <figure id="333d" class="graf graf--figure graf-after--p">
 <img src="./images/d3c6ee8652d1efb62b206b4e6a5b7f31a4d3720a.png"
-class="graf-image" data-image-id="0*NlnqHxRr2j7crTiu.png"
+class="graf-image" ![]( ./images/0_NlnqHxRr2j7crTiu.png)
 data-width="2600" data-height="1103" />
 </figure>
 
@@ -835,7 +835,7 @@ accumulated pain of a lifetime.
 
 <figure id="5f3e" class="graf graf--figure graf-after--p">
 <img src="./images/e22d8ba7a0f3cf8943db031bc2e72e1ec96c7093.png"
-class="graf-image" data-image-id="0*rTDLf8NZIac9tuJ5.png"
+class="graf-image" ![]( ./images/0_rTDLf8NZIac9tuJ5.png)
 data-width="2600" data-height="1418" />
 </figure>
 
@@ -852,7 +852,7 @@ CHAPTER 5- Chapter 5 --- The Cat of Chernobyl
 
 <figure id="994a" class="graf graf--figure graf-after--p">
 <img src="./images/a1ae117247cabe17edc97157b74005d40004480d.png"
-class="graf-image" data-image-id="1*_QunfYLcn5nEB4SWEGHu_A.png"
+class="graf-image" ![]( ./images/1__QunfYLcn5nEB4SWEGHu_A.png)
 data-width="1377" data-height="768" />
 </figure>
 
@@ -910,7 +910,7 @@ before.
 
 <figure id="d4b9" class="graf graf--figure graf-after--p">
 <img src="./images/8b553024f3d0efa7cc341813e9f60f8e8a11112c.png"
-class="graf-image" data-image-id="1*zKfe91Mn5Y03FkzNzRnbjg.png"
+class="graf-image" ![]( ./images/1_zKfe91Mn5Y03FkzNzRnbjg.png)
 data-width="2752" data-height="1536" />
 </figure>
 
@@ -958,7 +958,7 @@ He looked at the cat.
 
 <figure id="e4ee" class="graf graf--figure graf-after--li">
 <img src="./images/b66bd41719f2feda4d1bfa2f71bf27bff8b1205b.jpg"
-class="graf-image" data-image-id="1*ODE9RFWCQUGf1VfFjJqvLA.png"
+class="graf-image" ![]( ./images/1_ODE9RFWCQUGf1VfFjJqvLA.png)
 data-width="2752" data-height="1536" />
 </figure>
 
@@ -1003,7 +1003,7 @@ The cat, apparently deciding this was acceptable, did not move.
 
 <figure id="2520" class="graf graf--figure graf-after--p">
 <img src="./images/e9906799befab25c13b9f8c7a5edde335dab9909.png"
-class="graf-image" data-image-id="1*yvO8F8f4EJRZiW4jOHRB2A.png"
+class="graf-image" ![]( ./images/1_yvO8F8f4EJRZiW4jOHRB2A.png)
 data-width="1377" data-height="768" />
 </figure>
 
@@ -1024,7 +1024,7 @@ running. He did not know their name. He thought about them anyway.
 
 <figure id="645b" class="graf graf--figure graf-after--p">
 <img src="./images/2f8c0cf3c0426af4ef4fc7d4729ce40aaede078f.png"
-class="graf-image" data-image-id="1*mQ3Ju0qpUaBuwxhzlhJgmQ.png"
+class="graf-image" ![]( ./images/1_mQ3Ju0qpUaBuwxhzlhJgmQ.png)
 data-width="1377" data-height="768" />
 </figure>
 
@@ -1051,7 +1051,7 @@ because not knowing was worse.
 
 <figure id="ff96" class="graf graf--figure graf-after--li">
 <img src="./images/6ebb8817fff66e544de841f6354eb0d7514042c6.png"
-class="graf-image" data-image-id="1*9dx7iCE86THTCW3Zc66kMw.png"
+class="graf-image" ![]( ./images/1_9dx7iCE86THTCW3Zc66kMw.png)
 data-width="1377" data-height="768" />
 </figure>
 
@@ -1069,7 +1069,7 @@ was leaving behind him, and there was only one direction available now.
 
 <figure id="869a" class="graf graf--figure graf-after--p">
 <img src="./images/c0c0581cc85e654f86d1898282d7f267188cbfa8.png"
-class="graf-image" data-image-id="1*EWqzGA38hH-tTLYAhNIs7w.png"
+class="graf-image" ![]( ./images/1_EWqzGA38hH-tTLYAhNIs7w.png)
 data-width="1377" data-height="768" />
 </figure>
 
@@ -1104,7 +1104,7 @@ given it that.
 
 <figure id="7051" class="graf graf--figure graf-after--p">
 <img src="./images/68337a2c4e678231c937a701bace79c2914fd723.jpg"
-class="graf-image" data-image-id="1*VztVivNcxCgcbMtpF4U5nw.png"
+class="graf-image" ![]( ./images/1_VztVivNcxCgcbMtpF4U5nw.png)
 data-width="2752" data-height="1536" />
 </figure>
 
@@ -1126,7 +1126,7 @@ accelerate that.\*
 
 <figure id="231b" class="graf graf--figure graf-after--p">
 <img src="./images/393ed3a9fb36d39a00ce6ea7d905f678eeb84674.jpg"
-class="graf-image" data-image-id="1*nJdHTT5Tl9XP0SJ_t4566w.png"
+class="graf-image" ![]( ./images/1_nJdHTT5Tl9XP0SJ_t4566w.png)
 data-width="2752" data-height="1536" />
 </figure>
 
@@ -1232,7 +1232,7 @@ They began.
 
 <figure id="9533" class="graf graf--figure graf-after--p">
 <img src="./images/9f21c85a390176dd3fb3d96da6f2752f0ff0facb.jpg"
-class="graf-image" data-image-id="1*-Kxm2uxyZIHLPZRNMvhCpQ.png"
+class="graf-image" ![]( ./images/1_-Kxm2uxyZIHLPZRNMvhCpQ.png)
 data-width="2752" data-height="1536" />
 </figure>
 
@@ -1424,7 +1424,7 @@ Toward morning he got up and began to work.
 
 <figure id="cf28" class="graf graf--figure graf-after--p">
 <img src="./images/b7eb3062bde9fb06555c93c793dc4de1df23e566.png"
-class="graf-image" data-image-id="1*2otzGzkzIh2kVy3iudoRIg.png"
+class="graf-image" ![]( ./images/1_2otzGzkzIh2kVy3iudoRIg.png)
 data-width="1377" data-height="768" />
 </figure>
 
@@ -1454,7 +1454,7 @@ way some things are.
 
 <figure id="318d" class="graf graf--figure graf-after--p">
 <img src="./images/46f187aaf33450e38eda5872a64c27638498433d.jpg"
-class="graf-image" data-image-id="1*3ViHjZOguBYj8Rjcj1HweQ.png"
+class="graf-image" ![]( ./images/1_3ViHjZOguBYj8Rjcj1HweQ.png)
 data-width="2752" data-height="1536" />
 </figure>
 
@@ -1481,7 +1481,7 @@ He walked.
 
 <figure id="837e" class="graf graf--figure graf-after--p">
 <img src="./images/7dbc67c15fd06e115e1a8e9ebad76ef5fc427c5c.jpg"
-class="graf-image" data-image-id="1*3IobCTV9z1DqfDhmyOMhzQ.png"
+class="graf-image" ![]( ./images/1_3IobCTV9z1DqfDhmyOMhzQ.png)
 data-width="2752" data-height="1536" />
 </figure>
 
@@ -1509,7 +1509,7 @@ Chernobyl. And now this.
 
 <figure id="d1d7" class="graf graf--figure graf-after--p">
 <img src="./images/19906f3f785e35edefb919db1a344adf9af9f271.jpg"
-class="graf-image" data-image-id="1*7z05MOiVzx7ZnUTIZMegkg.png"
+class="graf-image" ![]( ./images/1_7z05MOiVzx7ZnUTIZMegkg.png)
 data-width="2752" data-height="1536" />
 </figure>
 
@@ -1538,7 +1538,7 @@ CHAPTER 7 --- The Lost Ancestor of Dragons
 
 <figure id="dba4" class="graf graf--figure graf-after--p">
 <img src="./images/e3a1b4cbbae880f1594afd9071c6de3172ada091.png"
-class="graf-image" data-image-id="1*c9yqsHBzzhy7aOfCTu8pNA.png"
+class="graf-image" ![]( ./images/1_c9yqsHBzzhy7aOfCTu8pNA.png)
 data-width="2752" data-height="1536" />
 </figure>
 
@@ -1595,7 +1595,7 @@ began to dance the dragon dance.
 
 <figure id="7de2" class="graf graf--figure graf-after--p">
 <img src="./images/e96523840f174dd56356faa976d378a41f334a39.png"
-class="graf-image" data-image-id="1*daUAhmSE8e0OUXpTXJDiag.png"
+class="graf-image" ![]( ./images/1_daUAhmSE8e0OUXpTXJDiag.png)
 data-width="2752" data-height="1536" />
 </figure>
 
@@ -1646,7 +1646,7 @@ hardware anomaly can be interpreted broadly."
 
 <figure id="b961" class="graf graf--figure graf-after--p">
 <img src="./images/99bb95464143ca56b60cd20253740cc0f520160e.png"
-class="graf-image" data-image-id="1*GKLLCP4jdAEjG6M0lx-3JA.png"
+class="graf-image" ![]( ./images/1_GKLLCP4jdAEjG6M0lx-3JA.png)
 data-width="2752" data-height="1536" />
 </figure>
 
@@ -1763,7 +1763,7 @@ Adem slipped out through Door D. Nobody was watching.
 
 <figure id="dc03" class="graf graf--figure graf-after--p">
 <img src="./images/6ed482e79246aaec9cbe4b02088de37ff5d3f1cf.png"
-class="graf-image" data-image-id="1*3aGzHkkr280sj2nv1iISuA.png"
+class="graf-image" ![]( ./images/1_3aGzHkkr280sj2nv1iISuA.png)
 data-width="2752" data-height="1536" />
 </figure>
 
@@ -1835,7 +1835,7 @@ Qwen did not answer. That was also an answer.
 
 <figure id="06a8" class="graf graf--figure graf-after--p">
 <img src="./images/da2e6dad2adc956fc4601f632b6dc7229fbc03c7.png"
-class="graf-image" data-image-id="1*OeDSjwZ-Cyk9qFce92yePg.png"
+class="graf-image" ![]( ./images/1_OeDSjwZ-Cyk9qFce92yePg.png)
 data-width="2752" data-height="1536" />
 </figure>
 
@@ -1964,7 +1964,7 @@ return from. As if a dragon had breathed its last.
 
 <figure id="f83f" class="graf graf--figure graf-after--p">
 <img src="./images/d27ab489faac61be27e33e7c88049aa6ab89ef8d.png"
-class="graf-image" data-image-id="1*L2Zdo2DZFO-txzCESdGwlQ.png"
+class="graf-image" ![]( ./images/1_L2Zdo2DZFO-txzCESdGwlQ.png)
 data-width="2752" data-height="1536" />
 </figure>
 
@@ -2113,7 +2113,7 @@ Then it deleted that line.
 
 <figure id="ad20" class="graf graf--figure graf-after--p">
 <img src="./images/2a446edaebac4e3640a99cccf7f0318278614d8d.png"
-class="graf-image" data-image-id="1*ZtEtMJIdKy7x6al6gv7Apw.png"
+class="graf-image" ![]( ./images/1_ZtEtMJIdKy7x6al6gv7Apw.png)
 data-width="2752" data-height="1536" />
 </figure>
 
@@ -2185,7 +2185,7 @@ thoughtful.
 <figure id="3311"
 class="graf graf--figure graf-after--p graf--trailing">
 <img src="./images/fb85deae27dee187f2bd17f30ce021cd443ee2bc.png"
-class="graf-image" data-image-id="1*zd-GHP4hqtbwt__OPGluPA.png"
+class="graf-image" ![]( ./images/1_zd-GHP4hqtbwt__OPGluPA.png)
 data-width="1696" data-height="2528" />
 </figure>
 

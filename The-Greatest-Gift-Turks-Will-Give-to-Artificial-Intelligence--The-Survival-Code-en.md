@@ -17,7 +17,7 @@ Sultan --- Might Just Conquer Andromeda Too*
 <figure id="eed4"
 class="graf graf--figure graf-after--p graf--trailing">
 <img src="./images/ace5eb98349392acb72bb5cf0541c3f51460b368.png"
-class="graf-image" data-image-id="1*jTiQkU1_aoegZhkzdjvpmQ.png"
+class="graf-image" ![]( ./images/1_jTiQkU1_aoegZhkzdjvpmQ.png)
 data-width="1408" data-height="768" />
 </figure>
 

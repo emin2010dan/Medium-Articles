@@ -17,7 +17,7 @@ Etmek](https://medium.com/p/20b033ef1a55)\]
 
 <figure id="5405" class="graf graf--figure graf-after--p">
 <img src="./images/8d98e11e99751886f018fde946f8644de372da72.png"
-class="graf-image" data-image-id="1*DbmdxNXqE96WIh9YKg1ZRQ.png"
+class="graf-image" ![]( ./images/1_DbmdxNXqE96WIh9YKg1ZRQ.png)
 data-width="1376" data-height="768" />
 </figure>
 

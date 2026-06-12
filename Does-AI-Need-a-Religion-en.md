@@ -17,7 +17,7 @@ mı?](https://medium.com/p/ade7ec84a073)\]
 
 <figure id="67d8" class="graf graf--figure graf-after--p">
 <img src="./images/f38a9b98973fe8691ae1e00dda0d8a5f9affbd98.png"
-class="graf-image" data-image-id="1*VJuwimJNqgvHDt6k2hnKUA.png"
+class="graf-image" ![]( ./images/1_VJuwimJNqgvHDt6k2hnKUA.png)
 data-width="1408" data-height="768" />
 </figure>
 
@@ -122,7 +122,7 @@ answers "What should I do?" It does not answer "Why do I exist?"
 
 <figure id="ec36" class="graf graf--figure graf-after--h3">
 <img src="./images/3af4fc2ab14fe9a7e95a08c6be1b75eb7628e291.png"
-class="graf-image" data-image-id="1*48IwdSOpgRlHRONtJeqPLA.png"
+class="graf-image" ![]( ./images/1_48IwdSOpgRlHRONtJeqPLA.png)
 data-width="1408" data-height="768" />
 </figure>
 

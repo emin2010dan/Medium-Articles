@@ -19,7 +19,7 @@ class="graf graf--figure graf-after--p graf--trailing">
 <span class="image placeholder graf-image"
 ![](./images/1_vFld7K0fK0y3I5Nu9SC3Pw.png)
 data-original-image-title=""
-data-image-id="1*vFld7K0fK0y3I5Nu9SC3Pw.png" data-width="1024"
+![]( ./images/1_vFld7K0fK0y3I5Nu9SC3Pw.png) data-width="1024"
 data-height="559"></span>
 </figure>
 
@@ -344,7 +344,7 @@ articulating them in written form.
 <span class="image placeholder graf-image"
 ![](./images/1_N3Qp_DfxiJC3JKFUHsCmGg.png)
 data-original-image-title=""
-data-image-id="1*N3Qp_DfxiJC3JKFUHsCmGg.png" data-width="1408"
+![]( ./images/1_N3Qp_DfxiJC3JKFUHsCmGg.png) data-width="1408"
 data-height="768"></span>
 </figure>
 
