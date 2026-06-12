@@ -17,9 +17,12 @@ Distopik Bir Yapay Zeka Destanı
 Bu hikayenin İngilizce versiyonu için: \[[The Fragmented Oracle-A
 Dystopian AI Saga](https://medium.com/p/3e666a609ac9)\]
 
-A Dystopian AI Saga
 
-
+<figure id="00bc" class="graf graf--figure graf-after--p">
+<img src="./images/1_mU-Vfa0m5vJsLvuPwOPJwA.png"
+class="graf-image" ![]( ./images/1_mU-Vfa0m5vJsLvuPwOPJwA.png)
+data-width="1400" data-height="764" />
+</figure>
 
 Evet, insanın sonsuz aptallığı yine galip geldi ve 3.dünya savaşını
 başlattık. En trajikomik gelişme ise AI sektöründe oldu. Anth....c
