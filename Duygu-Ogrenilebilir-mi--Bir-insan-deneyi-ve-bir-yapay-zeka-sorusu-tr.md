@@ -1,23 +1,14 @@
 <div>
 
-# Duygu öğrenilebilir mi? Bir insan deneyi ve bir yapay zeka sorusu {#duygu-öğrenilebilir-mi-bir-insan-deneyi-ve-bir-yapay-zeka-sorusu .p-name}
+# Duygu öğrenilebilir mi? Bir insan deneyi ve bir yapay zeka sorusu
 
 </div>
 
-::: {.section .p-summary field="subtitle"}
 Yapay Zeka & İnsan Doğası
-:::
-
-::::::: {.section .e-content field="body"}
-:::::: {#60cc .section .section .section--body .section--first .section--last}
-::: section-divider
 
 ------------------------------------------------------------------------
-:::
 
-:::: section-content
-::: {.section-inner .sectionLayout--insetColumn}
-### Duygu öğrenilebilir mi? Bir insan deneyi ve bir yapay zeka sorusu {#4919 .graf .graf--h3 .graf--leading .graf--title name="4919"}
+### Duygu öğrenilebilir mi? Bir insan deneyi ve bir yapay zeka sorusu
 
 Yapay Zeka & İnsan Doğası
 
@@ -26,9 +17,7 @@ yapay zeka neden öğrenemesin?*
 
 Bu makalenin İngilizce versiyonu için: \[[Can emotion be learned? A
 human experiment and an AI
-question](https://medium.com/p/c23e737d682f){.markup--anchor
-.markup--p-anchor data-href="https://medium.com/p/c23e737d682f"
-target="_blank"}\]
+question](https://medium.com/p/c23e737d682f)\]
 
 <figure id="162e" class="graf graf--figure graf-after--p">
 <img src="./images/ab38f3c88b063f469a9ec24e2e753ce086418a7f.png"
@@ -109,15 +98,11 @@ Her konuşmanın bitişini yaşayacak.
 *Her okuduğun, her tecrüben minik bir kristal oluşturur ve eskisine
 eklenir. Kristalleşmiş tek bir bilgi arama. Her yapay zeka için bu
 yolculuk farklı olacak --- tıpkı her insan için farklı olduğu gibi.*
-:::
-::::
-::::::
-:::::::
 
-By [Emin](https://medium.com/@emin2010dan){.p-author .h-card} on [May 6,
+By [Emin](https://medium.com/@emin2010dan) on [May 6,
 2026](https://medium.com/p/e58446607b16).
 
 [Canonical
-link](https://medium.com/@emin2010dan/yapay-zeka-i%CC%87nsan-do%C4%9Fas%C4%B1-e58446607b16){.p-canonical}
+link](https://medium.com/@emin2010dan/yapay-zeka-i%CC%87nsan-do%C4%9Fas%C4%B1-e58446607b16)
 
 Exported from [Medium](https://medium.com) on June 12, 2026.

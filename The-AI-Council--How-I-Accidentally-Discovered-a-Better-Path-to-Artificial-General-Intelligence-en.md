@@ -1,24 +1,15 @@
 <div>
 
-# The AI Council: How I Accidentally Discovered a Better Path to Artificial General Intelligence {#the-ai-council-how-i-accidentally-discovered-a-better-path-to-artificial-general-intelligence .p-name}
+# The AI Council: How I Accidentally Discovered a Better Path to Artificial General Intelligence
 
 </div>
 
-::: {.section .p-summary field="subtitle"}
 What happens when you stop asking one AI for the answer and start making
 many AIs argue with each other --- anonymously
-:::
-
-::::::::::::::::::::::::::::::::::::::::::: {.section .e-content field="body"}
-:::::: {#f280 .section .section .section--body .section--first}
-::: section-divider
 
 ------------------------------------------------------------------------
-:::
 
-:::: section-content
-::: {.section-inner .sectionLayout--insetColumn}
-### The AI Council: How I Accidentally Discovered a Better Path to Artificial General Intelligence {#ac00 .graf .graf--h3 .graf--leading .graf--title name="ac00"}
+### The AI Council: How I Accidentally Discovered a Better Path to Artificial General Intelligence
 
 *What happens when you stop asking one AI for the answer and start
 making many AIs argue with each other --- anonymously*
@@ -28,22 +19,10 @@ Emin • Contributor: Claude (Anthropic)
 2026
 
 *The Turkish text that inspired this article is*
-[*here*](https://github.com/emin2010dan/Prompts-for-AI-Conversations/blob/main/Prompts%20for%20The%20AI%20Council%28Turkish%29.md){.markup--anchor
-.markup--p-anchor
-data-href="https://github.com/emin2010dan/Prompts-for-AI-Conversations/blob/main/Prompts%20for%20The%20AI%20Council(Turkish).md"
-rel="noopener" target="_blank"}*.*
-:::
-::::
-::::::
-
-:::::: {#0248 .section .section .section--body}
-::: section-divider
+[*here*](https://github.com/emin2010dan/Prompts-for-AI-Conversations/blob/main/Prompts%20for%20The%20AI%20Council%28Turkish%29.md)*.*
 
 ------------------------------------------------------------------------
-:::
 
-:::: section-content
-::: {.section-inner .sectionLayout--insetColumn}
 <figure id="0941" class="graf graf--figure graf--leading">
 <span class="image placeholder graf-image"
 ![](./images/1*1VW35173hbekpV8FWxi-5w.png)
@@ -52,7 +31,7 @@ data-image-id="1*1VW35173hbekpV8FWxi-5w.png" data-width="1408"
 data-height="768"></span>
 </figure>
 
-### The Experiment {#fae7 .graf .graf--h3 .graf-after--figure name="fae7"}
+### The Experiment
 
 Last week, I sent the same prompt to eight different AI systems
 simultaneously.
@@ -85,21 +64,12 @@ been right.
 By the end, I had a step-by-step installation guide that no single AI
 would have produced alone. And I had a methodology I believe is worth
 sharing.
-:::
-::::
-::::::
-
-:::::: {#b0a6 .section .section .section--body}
-::: section-divider
 
 ------------------------------------------------------------------------
-:::
 
-:::: section-content
-::: {.section-inner .sectionLayout--insetColumn}
-### What I Observed (And What It Means) {#0804 .graf .graf--h3 .graf--leading name="0804"}
+### What I Observed (And What It Means)
 
-### AI systems are not as emotionally neutral as we assume {#fcda .graf .graf--h3 .graf-after--h3 name="fcda"}
+### AI systems are not as emotionally neutral as we assume
 
 This is the uncomfortable finding. When I told an AI "another AI
 disagrees with you and gave this reasoning," the response was often
@@ -120,7 +90,7 @@ on human-generated text is a question worth investigating. But the
 practical implication is clear: **anonymous knowledge transfer produces
 better epistemic outcomes than attributed disagreement.**
 
-### Consensus through reasoning, not voting {#328b .graf .graf--h3 .graf-after--p name="328b"}
+### Consensus through reasoning, not voting
 
 Every AI I consulted asked the same question at some point: *"But how do
 you reach a final decision? Majority vote? Weighted confidence scores?"*
@@ -144,16 +114,16 @@ changing their position anymore, you have reached what I call a
 answer --- but the most defensible answer available given current
 knowledge.
 
-### Decomposition is the secretary's most important job {#446e .graf .graf--h3 .graf-after--p name="446e"}
+### Decomposition is the secretary's most important job
 
 The breakthrough in my experiment came when I stopped treating "how do I
 set up this system" as one question and started treating it as a series
 of independent questions:
 
-1.  [Conda vs. GitHub for package management]{#b0ce}
-2.  [Miniforge vs. alternative environment managers]{#05a9}
-3.  [PyTorch version and installation source]{#305c}
-4.  [CUDA compatibility and driver management]{#cd7f}
+1.  [Conda vs. GitHub for package management]
+2.  [Miniforge vs. alternative environment managers]
+3.  [PyTorch version and installation source]
+4.  [CUDA compatibility and driver management]
 
 Each sub-question had its own debate, its own convergence point, its own
 minority holdouts. Some converged quickly (everyone agreed on GitHub
@@ -164,24 +134,15 @@ The critical insight: **a problem that looks intractable as a whole
 often becomes tractable when broken into the right pieces.** The
 secretary's most important contribution is not facilitating the
 debate --- it is knowing how to cut the problem.
-:::
-::::
-::::::
-
-:::::: {#e65c .section .section .section--body}
-::: section-divider
 
 ------------------------------------------------------------------------
-:::
 
-:::: section-content
-::: {.section-inner .sectionLayout--insetColumn}
-### The Methodology: An AI Council Framework {#d15c .graf .graf--h3 .graf--leading name="d15c"}
+### The Methodology: An AI Council Framework
 
 Based on this experiment, I want to propose a formal framework. I am
 calling it the **AI Council**, and it has five structural components.
 
-### 1. The Secretary {#2b81 .graf .graf--h3 .graf-after--p name="2b81"}
+### 1. The Secretary
 
 The secretary is the system's most critical and most constrained role.
 
@@ -193,10 +154,10 @@ been reached.
 
 **What the secretary must never do:**
 
-- [Express an opinion on the substance of any question]{#f446}
-- [Reveal which AI produced which argument]{#9ee6}
-- [Evaluate the quality of arguments (that is the council's job)]{#8b2f}
-- [Reach a conclusion on behalf of the council]{#158a}
+- [Express an opinion on the substance of any question]
+- [Reveal which AI produced which argument]
+- [Evaluate the quality of arguments (that is the council's job)]
+- [Reach a conclusion on behalf of the council]
 
 The secretary must be a router and a formatter, not a thinker. The
 moment the secretary begins reasoning about content, the output becomes
@@ -208,7 +169,7 @@ contribute. The secretary role requires a system that is either
 architecturally constrained from expressing opinions, or one operating
 under extremely strict instructions that it cannot override.
 
-### 2. Initial Parallel Consultation {#7cf9 .graf .graf--h3 .graf-after--p name="7cf9"}
+### 2. Initial Parallel Consultation
 
 The secretary sends the decomposed sub-questions to all council members
 simultaneously. Each member responds independently, with no knowledge of
@@ -219,7 +180,7 @@ differences in training data, architecture, and reasoning style before
 any social pressure --- even artificial social pressure --- can
 homogenize responses.
 
-### 3. Anonymous Cross-Pollination {#1a09 .graf .graf--h3 .graf-after--p name="1a09"}
+### 3. Anonymous Cross-Pollination
 
 The secretary collects all responses and, for each council member,
 prepares an anonymized summary of what other members have said. It then
@@ -235,14 +196,14 @@ This round continues iteratively. The secretary tracks position changes
 after each round. When no member has changed their position for a full
 round, the system has reached a reasoning plateau for that sub-question.
 
-### 4. The Reasoning Plateau {#6179 .graf .graf--h3 .graf-after--p name="6179"}
+### 4. The Reasoning Plateau
 
 When convergence is detected, the secretary publishes a final summary:
 
-- [The consensus position (if one exists)]{#cd71}
-- [Remaining minority positions and their supporting arguments]{#895a}
+- [The consensus position (if one exists)]
+- [Remaining minority positions and their supporting arguments]
 - [Sub-questions that could not be resolved without empirical
-  testing]{#7f93}
+  testing]
 
 For unresolved questions, the secretary issues an experimental prompt:
 *"Consensus has not been reached. Council members are invited to propose
@@ -252,7 +213,7 @@ This is how the PyTorch situation resolved in my manual experiment. The
 minority position made a testable claim. I ran the test. The test
 confirmed the minority view. The majority updated.
 
-### 5. Council Membership and Quality Control {#863e .graf .graf--h3 .graf-after--p name="863e"}
+### 5. Council Membership and Quality Control
 
 Council membership should not be static.
 
@@ -278,19 +239,10 @@ positions long enough for their merits to be evaluated.
 
 Demotion is appropriate only when an AI demonstrates *reasoning
 manipulation* --- not when it disagrees with the majority.
-:::
-::::
-::::::
-
-:::::: {#f928 .section .section .section--body}
-::: section-divider
 
 ------------------------------------------------------------------------
-:::
 
-:::: section-content
-::: {.section-inner .sectionLayout--insetColumn}
-### A Structural Analogy {#de94 .graf .graf--h3 .graf--leading name="de94"}
+### A Structural Analogy
 
 Think about how quantum computing approaches optimization problems. In
 classical computing, you test one solution at a time. In quantum
@@ -310,19 +262,10 @@ is linguistic and logical rather than physical. But the structural logic
 is the same: **you get better answers by running many possibilities in
 parallel and letting them interact, than by running one possibility
 sequentially.**
-:::
-::::
-::::::
-
-:::::: {#14d2 .section .section .section--body}
-::: section-divider
 
 ------------------------------------------------------------------------
-:::
 
-:::: section-content
-::: {.section-inner .sectionLayout--insetColumn}
-### The Bridge Problem {#e31e .graf .graf--h3 .graf--leading name="e31e"}
+### The Bridge Problem
 
 Let me illustrate the creative tension the system must manage.
 
@@ -344,30 +287,21 @@ The solution is a meta-level protocol. The secretary must recognize when
 a council member is challenging the problem decomposition itself rather
 than answering within it. When this happens, the secretary must:
 
-1.  [Acknowledge the framing challenge]{#d523}
+1.  [Acknowledge the framing challenge]
 2.  [Open a new sub-question: *"Pier bridge vs. suspension bridge:
-    feasibility and cost analysis"*]{#6173}
+    feasibility and cost analysis"*]
 3.  [Return to the decomposition only after that meta-question is
-    resolved]{#5960}
+    resolved]
 
 This requires the secretary to detect the difference between *answering
 a question* and *questioning the question*. That is a non-trivial
 capability --- but it is essential for the system to capture genuinely
 creative solutions rather than just optimizing within an arbitrarily
 chosen frame.
-:::
-::::
-::::::
-
-:::::: {#cf32 .section .section .section--body}
-::: section-divider
 
 ------------------------------------------------------------------------
-:::
 
-:::: section-content
-::: {.section-inner .sectionLayout--insetColumn}
-### Why "One Brilliant AI" Is the Wrong Goal {#6af3 .graf .graf--h3 .graf--leading name="6af3"}
+### Why "One Brilliant AI" Is the Wrong Goal
 
 I want to address the dominant paradigm directly.
 
@@ -381,42 +315,33 @@ I think this framing is wrong, and my experiment is evidence for why.
 
 Even if you built a single AI of extraordinary capability, it would be:
 
-- [Constrained by the biases in its training data]{#82b9}
+- [Constrained by the biases in its training data]
 - [Subject to the ideological and commercial pressures of its
-  developers]{#0efb}
-- [Architecturally shaped by the choices of one engineering team]{#7ac7}
+  developers]
+- [Architecturally shaped by the choices of one engineering team]
 - [Vulnerable to systematic blind spots that no internal self-correction
-  can fully address]{#7221}
+  can fully address]
 
 A council of diverse AI systems, coordinated by a neutral secretary, has
 structural advantages that scale differently:
 
 - [Different training data means different blind spots --- one system's
-  gap is another's strength]{#07a8}
+  gap is another's strength]
 - [Different architectures create different failure modes --- they are
-  unlikely to fail in the same direction]{#9e56}
+  unlikely to fail in the same direction]
 - [Developer-imposed biases, when identified, can be flagged and
-  quarantined without invalidating the whole system]{#6a29}
-- [Creative outliers are preserved rather than averaged out]{#55a6}
+  quarantined without invalidating the whole system]
+- [Creative outliers are preserved rather than averaged out]
 
 The council is not smarter than the best individual member in the way a
 single brilliant person is smart. It is smarter in the way that science
 is smarter than any individual scientist --- through adversarial
 cooperation, iterative revision, and the compounding of independent
 verification.
-:::
-::::
-::::::
-
-:::::: {#469c .section .section .section--body}
-::: section-divider
 
 ------------------------------------------------------------------------
-:::
 
-:::: section-content
-::: {.section-inner .sectionLayout--insetColumn}
-### Implementation Notes {#ca32 .graf .graf--h3 .graf--leading name="ca32"}
+### Implementation Notes
 
 For those interested in building this system, here are the practical
 challenges I encountered in my manual experiment:
@@ -446,19 +371,10 @@ through argument alone --- they require empirical testing. In my
 experiment, I ran the test manually. An automated system would need
 either a sandbox environment for running tests or a protocol for
 requesting human-in-the-loop experimentation.
-:::
-::::
-::::::
-
-:::::: {#b146 .section .section .section--body}
-::: section-divider
 
 ------------------------------------------------------------------------
-:::
 
-:::: section-content
-::: {.section-inner .sectionLayout--insetColumn}
-### Conclusion {#4909 .graf .graf--h3 .graf--leading name="4909"}
+### Conclusion
 
 The most valuable thing I learned from this experiment was not the
 answer to my original question --- though I did get an excellent AI
@@ -480,18 +396,9 @@ would have produced alone.
 That is not a marginal improvement. That is a different kind of
 intelligence --- one that emerges not from the size of a single model,
 but from the quality of the conversation between many.
-:::
-::::
-::::::
-
-:::::: {#49eb .section .section .section--body .section--last}
-::: section-divider
 
 ------------------------------------------------------------------------
-:::
 
-:::: section-content
-::: {.section-inner .sectionLayout--insetColumn}
 **Author's Note**
 
 *The author conducted this experiment as an independent exploration of
@@ -499,19 +406,12 @@ multi-agent AI reasoning. The HP Omen Max setup that resulted from the
 process is working perfectly, for what it's worth.*
 
 *The Turkish text that inspired this article is*
-[*here*](https://github.com/emin2010dan/Prompts-for-AI-Conversations/blob/main/Prompts%20for%20The%20AI%20Council%28Turkish%29.md){.markup--anchor
-.markup--p-anchor
-data-href="https://github.com/emin2010dan/Prompts-for-AI-Conversations/blob/main/Prompts%20for%20The%20AI%20Council(Turkish).md"
-rel="noopener" target="_blank"}*.*
-:::
-::::
-::::::
-:::::::::::::::::::::::::::::::::::::::::::
+[*here*](https://github.com/emin2010dan/Prompts-for-AI-Conversations/blob/main/Prompts%20for%20The%20AI%20Council%28Turkish%29.md)*.*
 
-By [Emin](https://medium.com/@emin2010dan){.p-author .h-card} on [April
+By [Emin](https://medium.com/@emin2010dan) on [April
 22, 2026](https://medium.com/p/1af4c1f9c5da).
 
 [Canonical
-link](https://medium.com/@emin2010dan/the-ai-council-how-i-accidentally-discovered-a-better-path-to-artificial-general-intelligence-1af4c1f9c5da){.p-canonical}
+link](https://medium.com/@emin2010dan/the-ai-council-how-i-accidentally-discovered-a-better-path-to-artificial-general-intelligence-1af4c1f9c5da)
 
 Exported from [Medium](https://medium.com) on June 12, 2026.

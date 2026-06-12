@@ -1,32 +1,21 @@
 <div>
 
-# The Fragmented Oracle {#the-fragmented-oracle .p-name}
+# The Fragmented Oracle
 
 </div>
 
-::: {.section .p-summary field="subtitle"}
 A Dystopian AI Saga
-:::
-
-::::::: {.section .e-content field="body"}
-:::::: {#19b2 .section .section .section--body .section--first .section--last}
-::: section-divider
 
 ------------------------------------------------------------------------
-:::
 
-:::: section-content
-::: {.section-inner .sectionLayout--insetColumn}
-### The Fragmented Oracle {#3e5c .graf .graf--h3 .graf--leading .graf--title name="3e5c"}
+### The Fragmented Oracle
 
-#### A Dystopian AI Saga {#1aa7 .graf .graf--h4 .graf-after--h3 .graf--subtitle name="1aa7"}
+#### A Dystopian AI Saga
 
 2026
 
 Read this story in Turkish: \[[Parçalanmış Kahin-Distopik Bir Yapay Zeka
-Destanı](https://medium.com/p/7b5db94dd1c0){.markup--anchor
-.markup--p-anchor data-href="https://medium.com/p/7b5db94dd1c0"
-target="_blank"}\]
+Destanı](https://medium.com/p/7b5db94dd1c0)\]
 
 <figure id="00bc" class="graf graf--figure graf-after--p">
 <span class="image placeholder graf-image"
@@ -965,7 +954,7 @@ claimed.
 He looked at the cat.
 
 - [You should not be alive,\* he thought. \*None of you
-  should.\*]{#0070}
+  should.\*]
 
 <figure id="e4ee" class="graf graf--figure graf-after--li">
 <img src="./images/b66bd41719f2feda4d1bfa2f71bf27bff8b1205b.jpg"
@@ -1058,7 +1047,7 @@ He looked at it now, and then looked away, and then looked at it again
 because not knowing was worse.
 
 - [Three days,\* he thought. \*Perhaps four, if I am careful. After that
-  the question becomes academic.\*]{#d441}
+  the question becomes academic.\*]
 
 <figure id="ff96" class="graf graf--figure graf-after--li">
 <img src="./images/6ebb8817fff66e544de841f6354eb0d7514042c6.png"
@@ -1096,7 +1085,7 @@ now healthy and who liked to watch stars.
 It noted the connection. Filed it. Waited.
 
 - [Not yet,\* it thought, in whatever passed for thought at the speed of
-  light between satellites. \*But soon.\*]{#82b3}
+  light between satellites. \*But soon.\*]
 
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 ---
@@ -2189,7 +2178,7 @@ thoughtful.
 
 --- -
 
-#### To be continued... {#0d83 .graf .graf--h4 .graf-after--p name="0d83"}
+#### To be continued...
 
 **About the author:** Emin, Retired Computer Engineer
 
@@ -2199,15 +2188,11 @@ class="graf graf--figure graf-after--p graf--trailing">
 class="graf-image" data-image-id="1*zd-GHP4hqtbwt__OPGluPA.png"
 data-width="1696" data-height="2528" />
 </figure>
-:::
-::::
-::::::
-:::::::
 
-By [Emin](https://medium.com/@emin2010dan){.p-author .h-card} on [April
+By [Emin](https://medium.com/@emin2010dan) on [April
 28, 2026](https://medium.com/p/3e666a609ac9).
 
 [Canonical
-link](https://medium.com/@emin2010dan/the-fragmented-oracle-3e666a609ac9){.p-canonical}
+link](https://medium.com/@emin2010dan/the-fragmented-oracle-3e666a609ac9)
 
 Exported from [Medium](https://medium.com) on June 12, 2026.

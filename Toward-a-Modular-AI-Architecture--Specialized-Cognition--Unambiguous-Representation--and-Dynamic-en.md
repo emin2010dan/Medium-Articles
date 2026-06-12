@@ -1,23 +1,14 @@
 <div>
 
-# Toward a Modular AI Architecture: Specialized Cognition, Unambiguous Representation, and Dynamic... {#toward-a-modular-ai-architecture-specialized-cognition-unambiguous-representation-and-dynamic .p-name}
+# Toward a Modular AI Architecture: Specialized Cognition, Unambiguous Representation, and Dynamic...
 
 </div>
 
-::: {.section .p-summary field="subtitle"}
 A Conceptual Framework for Next-Generation AI Systems
-:::
-
-::::::: {.section .e-content field="body"}
-:::::: {#5954 .section .section .section--body .section--first .section--last}
-::: section-divider
 
 ------------------------------------------------------------------------
-:::
 
-:::: section-content
-::: {.section-inner .sectionLayout--insetColumn}
-### **Toward a Modular AI Architecture:** Specialized Cognition, Unambiguous Representation, and Dynamic Vector Spaces {#06cf .graf .graf--h3 .graf--leading .graf--title name="06cf"}
+### **Toward a Modular AI Architecture:** Specialized Cognition, Unambiguous Representation, and Dynamic Vector Spaces
 
 <figure id="7a98" class="graf graf--figure graf-after--h3">
 <span class="image placeholder graf-image"
@@ -35,7 +26,7 @@ Emin • Contributor: Claude (Anthropic)
 
 2026
 
-### Abstract {#152a .graf .graf--h3 .graf-after--p name="152a"}
+### Abstract
 
 *Contemporary large language models (LLMs) attempt to unify literary
 creativity, visual imagination, and scientific reasoning within a single
@@ -57,7 +48,7 @@ current LLMs is reframed not as a training failure but as an
 architectural inevitability of forcing incompatible cognitive modes into
 a single representational space.*
 
-### 1. Introduction {#acb0 .graf .graf--h3 .graf-after--p name="acb0"}
+### 1. Introduction
 
 Modern AI research has pursued a seductive goal: a single model capable
 of doing everything. GPT-4, Gemini, and Claude can write poetry, solve
@@ -93,9 +84,9 @@ explicit architectural separation between translation, reasoning, and
 generation --- and with representational schemes that match the
 structural demands of each cognitive domain.
 
-### 2. The Problem of Polysemy in AI Representation {#cde4 .graf .graf--h3 .graf-after--p name="cde4"}
+### 2. The Problem of Polysemy in AI Representation
 
-### 2.1 One Word, Multiple Worlds {#a256 .graf .graf--h3 .graf-after--h3 name="a256"}
+### 2.1 One Word, Multiple Worlds
 
 The word "light" illustrates the problem with unusual clarity. In
 physics, light is an electromagnetic phenomenon characterized by
@@ -121,7 +112,7 @@ cannot be solved at the representation level within a monolithic
 architecture; it requires a dedicated disambiguation layer that operates
 before the reasoning layer receives any input.
 
-### 2.2 Cross-Linguistic Structural Variation {#9c9b .graf .graf--h3 .graf-after--p name="9c9b"}
+### 2.2 Cross-Linguistic Structural Variation
 
 The problem deepens when we consider cross-lingual input. Turkish is a
 Subject-Object-Verb (SOV) agglutinative language; English is
@@ -141,9 +132,9 @@ representations. We propose that this abandonment was premature, and
 that a dedicated Translator AI operating as a preprocessing layer can
 now construct such representations with sufficient fidelity.
 
-### 3. The Translator AI: Disambiguation and Normalization {#f383 .graf .graf--h3 .graf-after--p name="f383"}
+### 3. The Translator AI: Disambiguation and Normalization
 
-### 3.1 Role and Responsibilities {#306d .graf .graf--h3 .graf-after--h3 name="306d"}
+### 3.1 Role and Responsibilities
 
 The Translator AI occupies the boundary between human natural language
 and the internal representation system used by Reasoning AI engines. Its
@@ -152,19 +143,19 @@ responsibilities are:
 - [Sense disambiguation: determining which of multiple possible meanings
   a polysemous word carries in context, and replacing it with an
   unambiguous internal token (e.g., light → LIGHT_PHYSICS_PHOTON or
-  LIGHT_LITERARY_METAPHOR).]{#e7f9}
+  LIGHT_LITERARY_METAPHOR).]
 - [Syntactic normalization: converting the surface syntax of any input
   language into a canonical logical form, stripping away
-  language-specific word-order conventions.]{#9f61}
+  language-specific word-order conventions.]
 - [Domain tagging: identifying the knowledge domain(s) relevant to the
   query and routing the normalized representation to the appropriate
-  Reasoning AI engine.]{#6308}
+  Reasoning AI engine.]
 - [Register and intent classification: distinguishing, for example,
   between a factual scientific query and an emotionally expressive
   literary request, so that the appropriate reasoning mode is
-  activated.]{#9174}
+  activated.]
 
-### 3.2 The Bootstrap Problem {#9e16 .graf .graf--h3 .graf-after--li name="9e16"}
+### 3.2 The Bootstrap Problem
 
 A natural objection arises: in order to disambiguate language, the
 Translator AI must itself understand language, including its
@@ -184,9 +175,9 @@ interpreter may occasionally be uncertain which of two readings a
 speaker intends, but they make a definitive choice before voicing it,
 never transmitting uncertainty into the formal record.
 
-### 4. Dynamic Vector Spaces and the Galaxy Model of Knowledge {#6784 .graf .graf--h3 .graf-after--p name="6784"}
+### 4. Dynamic Vector Spaces and the Galaxy Model of Knowledge
 
-### 4.1 The Fixed-Dimensionality Problem {#ece3 .graf .graf--h3 .graf-after--h3 name="ece3"}
+### 4.1 The Fixed-Dimensionality Problem
 
 All current embedding models assign a fixed-dimensional vector to every
 token regardless of conceptual complexity. In GPT-4-class models, this
@@ -203,7 +194,7 @@ parallelism is optimized for fixed tensor shapes, and cosine similarity
 is only defined for equal-length vectors. These constraints are real.
 Our proposal does not deny them; rather, it reframes the question.
 
-### 4.2 The Galaxy Metaphor {#b643 .graf .graf--h3 .graf-after--p name="b643"}
+### 4.2 The Galaxy Metaphor
 
 We propose conceptualizing the knowledge space of a Reasoning AI as a
 galaxy-like structure with the following properties:
@@ -212,21 +203,21 @@ galaxy-like structure with the following properties:
   domains --- basic logical operators, fundamental physical constants,
   elementary mathematical objects. These concepts are semantically
   stable, rarely ambiguous, and require low-dimensional
-  representations.]{#be61}
+  representations.]
 - [Inner orbits: Domain-general scientific concepts --- atomic elements,
   geometric primitives, basic biological taxa. Moderate dimensionality,
-  within-domain cross-referencing frequent.]{#505b}
+  within-domain cross-referencing frequent.]
 - [Outer arms: Highly specialized domain-specific concepts --- the
   optical reflectance properties of a particular automotive coating
   formulation, the prosodic conventions of a specific poetic tradition.
-  High dimensionality, cross-domain interaction rare.]{#e360}
+  High dimensionality, cross-domain interaction rare.]
 - [Sparse inter-arm regions: Concepts from distant domains that have
   negligible semantic overlap. Computation between these regions is not
   merely unnecessary --- it is actively misleading, because the distance
   metric between unrelated high-dimensional vectors is dominated by
-  noise.]{#0087}
+  noise.]
 
-### 4.3 Computational Realization {#20c1 .graf .graf--h3 .graf-after--li name="20c1"}
+### 4.3 Computational Realization
 
 The technical realization of variable-dimensionality vectors within a
 computation-friendly framework can be approached in several ways.
@@ -251,7 +242,7 @@ dimensions. The galaxy metaphor maps naturally onto the geometry of the
 Poincaré disk: the center represents the most general concepts; the
 boundary represents the most specific.
 
-### 4.4 Lexical Density as a Signal of Conceptual Complexity {#d334 .graf .graf--h3 .graf-after--p name="d334"}
+### 4.4 Lexical Density as a Signal of Conceptual Complexity
 
 A principled method for determining appropriate vector dimensionality is
 available from a surprising source: the lexical density of a domain. The
@@ -272,43 +263,43 @@ not independently. This principle provides an empirically grounded,
 domain-sensitive method for assigning vector dimensionality that
 requires no human annotation.
 
-### 5. Three Reasoning Architectures {#4017 .graf .graf--h3 .graf-after--p name="4017"}
+### 5. Three Reasoning Architectures
 
-### 5.1 Scientific Reasoning AI {#97b3 .graf .graf--h3 .graf-after--h3 name="97b3"}
+### 5.1 Scientific Reasoning AI
 
 The Scientific Reasoning AI operates on the canonical internal
 representation produced by the Translator AI. Its defining properties
 are:
 
 - [Zero tolerance for semantic ambiguity: every token maps to exactly
-  one referent.]{#6b03}
+  one referent.]
 - [Deterministic inference chains: for a given input, the reasoning path
-  is reproducible and inspectable.]{#323e}
+  is reproducible and inspectable.]
 - [Domain-partitioned vector spaces: concepts from unrelated domains do
-  not interact, eliminating cross-domain noise.]{#d65d}
+  not interact, eliminating cross-domain noise.]
 - [Calibrated uncertainty: when evidence is insufficient, the system
   returns a probability estimate with explicit confidence intervals, not
-  a confabulated answer.]{#72f6}
+  a confabulated answer.]
 
 Asking this system for a poem is not merely unhelpful --- it is a
 category error, and the system should recognize it as such and route the
 request back to the Translator AI for redirection.
 
-### 5.2 Literary Creativity AI {#c6f6 .graf .graf--h3 .graf-after--p name="c6f6"}
+### 5.2 Literary Creativity AI
 
 Literary creativity requires precisely the properties that the
 Scientific Reasoning AI excludes:
 
 - [Productive ambiguity: a single expression carrying multiple
-  simultaneous meanings is a feature, not a bug.]{#d60f}
+  simultaneous meanings is a feature, not a bug.]
 - [Associative reasoning: meaning emerges from unexpected
   juxtapositions; the system must traverse conceptual distances that a
-  scientific reasoner would mark as irrelevant.]{#d394}
+  scientific reasoner would mark as irrelevant.]
 - [Cultural and historical depth: metaphors, allusions, tonal registers,
   and genre conventions are first-class representational
-  elements.]{#b57a}
+  elements.]
 - [Tolerance for incompleteness: a poem that is not fully explicable is
-  not a failed poem.]{#5c1a}
+  not a failed poem.]
 
 Current LLMs produce poetry that is technically competent but rarely
 surprising. This is precisely what one would predict from a system
@@ -318,7 +309,7 @@ an architecture optimized for low-probability, high-semantic-distance
 connections would produce qualitatively different --- and qualitatively
 richer --- creative output.
 
-### 5.3 Visual Creativity AI {#b3d9 .graf .graf--h3 .graf-after--p name="b3d9"}
+### 5.3 Visual Creativity AI
 
 Visual creativity presents a third distinct case. An important
 historical data point: a BASIC program running on an Apple II in 1985
@@ -339,25 +330,25 @@ and operates directly on spatial representations may outperform
 text-conditioned models precisely because it does not need to translate
 between incompatible representational formats.
 
-### 6. The Modular AI Ecosystem {#9c0e .graf .graf--h3 .graf-after--p name="9c0e"}
+### 6. The Modular AI Ecosystem
 
-### 6.1 Architecture Overview {#1e85 .graf .graf--h3 .graf-after--h3 name="1e85"}
+### 6.1 Architecture Overview
 
 The full architecture proposed here comprises the following layers:
 
 - [Human Interface Layer: receives raw natural language input in any
-  language, any register, any domain.]{#8fa7}
+  language, any register, any domain.]
 - [Translator AI: disambiguates, normalizes, domain-tags, and
-  routes.]{#313f}
+  routes.]
 - [Reasoning AI Engines (parallel, specialized): Scientific, Literary,
   Visual, and potentially others (Legal, Mathematical,
-  Interpersonal).]{#9e52}
+  Interpersonal).]
 - [Synthesis Layer: integrates outputs from multiple Reasoning AI
-  engines when a query spans domains.]{#298e}
+  engines when a query spans domains.]
 - [Output Translator: converts the internal representation back into the
-  appropriate human language and register.]{#054b}
+  appropriate human language and register.]
 
-### 6.2 Separation of Concerns as Engineering Principle {#de05 .graf .graf--h3 .graf-after--li name="de05"}
+### 6.2 Separation of Concerns as Engineering Principle
 
 Software engineers recognize separation of concerns as one of the most
 powerful principles in system design: each component should be
@@ -375,7 +366,7 @@ the Translator AI provided it a correctly disambiguated representation,
 or whether the reasoning engine itself failed. This debuggability is
 nearly absent in current systems.
 
-### 6.3 Hallucination as Architectural Symptom {#5776 .graf .graf--h3 .graf-after--p name="5776"}
+### 6.3 Hallucination as Architectural Symptom
 
 The hallucination problem in current LLMs --- confident generation of
 factually incorrect statements --- has been attributed to training data
@@ -394,7 +385,7 @@ is a property of systems that treat confident generation as a universal
 output modality. Eliminating it requires not better training but
 architectural constraint.
 
-### 7. Relation to Existing Research {#f9c3 .graf .graf--h3 .graf-after--p name="f9c3"}
+### 7. Relation to Existing Research
 
 Several threads of existing research converge on components of the
 framework proposed here, though none combines them in the way we
@@ -429,9 +420,9 @@ radical: rather than sparse paths through a shared architecture, we
 advocate fully separate architectures with a dedicated coordination
 layer.
 
-### 8. Implications and Open Questions {#dd19 .graf .graf--h3 .graf-after--p name="dd19"}
+### 8. Implications and Open Questions
 
-### 8.1 For AI Safety {#ebe6 .graf .graf--h3 .graf-after--h3 name="ebe6"}
+### 8.1 For AI Safety
 
 A modular architecture with explicit separation between reasoning modes
 may have significant safety implications. A Scientific Reasoning AI that
@@ -442,7 +433,7 @@ Safety constraints can be implemented at the architectural level rather
 than as post-hoc filters on an inherently unconstrained generative
 system.
 
-### 8.2 For Interpretability {#8c16 .graf .graf--h3 .graf-after--p name="8c16"}
+### 8.2 For Interpretability
 
 One of the most significant obstacles to AI interpretability is that
 current LLMs perform all cognitive operations in the same
@@ -454,22 +445,22 @@ the reasoning chain of the Scientific Reasoning AI. This layered
 interpretability is qualitatively more tractable than end-to-end
 black-box explanation.
 
-### 8.3 Open Questions {#0d25 .graf .graf--h3 .graf-after--p name="0d25"}
+### 8.3 Open Questions
 
 - [How should concepts that span domain boundaries (quantum biology,
   computational linguistics, computational creativity) be represented in
-  a galaxy-structured knowledge space?]{#7bd6}
+  a galaxy-structured knowledge space?]
 - [Can the conceptual complexity and domain membership of a token be
   estimated automatically from corpus statistics, or does it require
-  human annotation?]{#690a}
+  human annotation?]
 - [What is the optimal architecture for the Synthesis Layer that
-  integrates outputs from multiple Reasoning AI engines?]{#4d15}
+  integrates outputs from multiple Reasoning AI engines?]
 - [How should the system handle queries whose domain classification is
   genuinely uncertain --- e.g., a philosophical question about the
   nature of light that is neither purely scientific nor purely
-  literary?]{#569e}
+  literary?]
 
-### 9. Conclusion {#34a8 .graf .graf--h3 .graf-after--li name="34a8"}
+### 9. Conclusion
 
 We have argued that the monolithic approach to AI architecture --- a
 single model trained on the full spectrum of human cognitive
@@ -516,15 +507,11 @@ era from early personal computing to the present, provides a perspective
 that younger practitioners rarely possess: the memory of what it felt
 like when a simple, well-scoped program did exactly what it was designed
 to do, and did it beautifully.*
-:::
-::::
-::::::
-:::::::
 
-By [Emin](https://medium.com/@emin2010dan){.p-author .h-card} on [April
+By [Emin](https://medium.com/@emin2010dan) on [April
 21, 2026](https://medium.com/p/5879add222a1).
 
 [Canonical
-link](https://medium.com/@emin2010dan/toward-a-modular-ai-architecture-specialized-cognition-unambiguous-representation-and-dynamic-5879add222a1){.p-canonical}
+link](https://medium.com/@emin2010dan/toward-a-modular-ai-architecture-specialized-cognition-unambiguous-representation-and-dynamic-5879add222a1)
 
 Exported from [Medium](https://medium.com) on June 12, 2026.

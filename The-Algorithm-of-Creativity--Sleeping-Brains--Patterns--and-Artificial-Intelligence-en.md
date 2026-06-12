@@ -1,23 +1,14 @@
 <div>
 
-# The Algorithm of Creativity: Sleeping Brains, Patterns, and Artificial Intelligence {#the-algorithm-of-creativity-sleeping-brains-patterns-and-artificial-intelligence .p-name}
+# The Algorithm of Creativity: Sleeping Brains, Patterns, and Artificial Intelligence
 
 </div>
 
-::: {.section .p-summary field="subtitle"}
 Author: Emin Contributor: Claude (Anthropic)
-:::
-
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.section .e-content field="body"}
-:::::: {#b147 .section .section .section--body .section--first}
-::: section-divider
 
 ------------------------------------------------------------------------
-:::
 
-:::: section-content
-::: {.section-inner .sectionLayout--insetColumn}
-### The Algorithm of Creativity: Sleeping Brains, Patterns, and Artificial Intelligence {#b6bb .graf .graf--h3 .graf--leading .graf--title name="b6bb"}
+### The Algorithm of Creativity: Sleeping Brains, Patterns, and Artificial Intelligence
 
 **Author:** Emin **Contributor:** Claude (Anthropic)
 
@@ -31,55 +22,25 @@ data-original-image-title=""
 data-image-id="1*vFld7K0fK0y3I5Nu9SC3Pw.png" data-width="1024"
 data-height="559"></span>
 </figure>
-:::
-::::
-::::::
-
-:::::: {#cd22 .section .section .section--body}
-::: section-divider
 
 ------------------------------------------------------------------------
-:::
 
-:::: section-content
-::: {.section-inner .sectionLayout--insetColumn}
 > "Creativity is the capacity to connect distant patterns in unexpected
 > but meaningful ways. But first, you need to ask the right question."
-:::
-::::
-::::::
-
-:::::: {#0a7c .section .section .section--body}
-::: section-divider
 
 ------------------------------------------------------------------------
-:::
 
-:::: section-content
-::: {.section-inner .sectionLayout--insetColumn}
 This article grew out of several days of conversation --- about
 artificial intelligence, memory, and creativity. What emerged was a
 coherent system connecting all three. This is that system, written out
 from beginning to end.
 
 *The Turkish text that inspired this article is*
-[*here*](https://github.com/emin2010dan/Prompts-for-AI-Conversations/blob/main/Prompts%20for%20The%20Algorithm%20of%20Creativity%28Turkish%29.md){.markup--anchor
-.markup--p-anchor
-data-href="https://github.com/emin2010dan/Prompts-for-AI-Conversations/blob/main/Prompts%20for%20The%20Algorithm%20of%20Creativity(Turkish).md"
-rel="noopener" target="_blank"}*.*
-:::
-::::
-::::::
-
-:::::: {#2edf .section .section .section--body}
-::: section-divider
+[*here*](https://github.com/emin2010dan/Prompts-for-AI-Conversations/blob/main/Prompts%20for%20The%20Algorithm%20of%20Creativity%28Turkish%29.md)*.*
 
 ------------------------------------------------------------------------
-:::
 
-:::: section-content
-::: {.section-inner .sectionLayout--insetColumn}
-### 1. The Memory Problem: Humans and Machines {#a4f7 .graf .graf--h3 .graf--leading name="a4f7"}
+### 1. The Memory Problem: Humans and Machines
 
 Imagine training an AI model from scratch. As the model grows, you
 encounter a strange problem: the more data you feed it, the more it
@@ -110,19 +71,10 @@ processed --- either using another model, or itself.** Ask: "What is the
 main idea here? Where does this conflict with existing knowledge?" Store
 the summary, not the raw data. We might call this *semantic
 consolidation*.
-:::
-::::
-::::::
-
-:::::: {#3634 .section .section .section--body}
-::: section-divider
 
 ------------------------------------------------------------------------
-:::
 
-:::: section-content
-::: {.section-inner .sectionLayout--insetColumn}
-### 2. Sleep: The Brain's Consolidation Engine {#65b8 .graf .graf--h3 .graf--leading name="65b8"}
+### 2. Sleep: The Brain's Consolidation Engine
 
 So when does this pattern-extraction happen?
 
@@ -142,19 +94,10 @@ The hippocampus overflows, boundary control breaks down.
 The implication for AI: **If we introduce sleep-like summarization
 interruptions into training, we may be able to build smaller but smarter
 models.**
-:::
-::::
-::::::
-
-:::::: {#50ae .section .section .section--body}
-::: section-divider
 
 ------------------------------------------------------------------------
-:::
 
-:::: section-content
-::: {.section-inner .sectionLayout--insetColumn}
-### 3. Dreams: The Incubation Machine of Creativity {#5442 .graf .graf--h3 .graf--leading name="5442"}
+### 3. Dreams: The Incubation Machine of Creativity
 
 Now we reach the most interesting part.
 
@@ -200,19 +143,10 @@ university fees are covered.
 The cake pattern solved the problem --- because the brain recognized
 "decorative surface" in two seemingly unrelated domains and connected
 them.
-:::
-::::
-::::::
-
-:::::: {#b639 .section .section .section--body}
-::: section-divider
 
 ------------------------------------------------------------------------
-:::
 
-:::: section-content
-::: {.section-inner .sectionLayout--insetColumn}
-### 4. The Power of the Question: The Seed of Creativity {#460e .graf .graf--h3 .graf--leading name="460e"}
+### 4. The Power of the Question: The Seed of Creativity
 
 A raindrop needs a dust particle to form around. Creativity needs a
 **question.**
@@ -250,19 +184,10 @@ the walls fail?"* could not be asked. The commanders at Pearl Harbor
 were locked into the pattern "torpedo = deep water." They couldn't ask:
 *"What happens in shallow water?"* The most dangerous blindness is the
 blindness created by a system that has worked too well for too long.
-:::
-::::
-::::::
-
-:::::: {#43f2 .section .section .section--body}
-::: section-divider
 
 ------------------------------------------------------------------------
-:::
 
-:::: section-content
-::: {.section-inner .sectionLayout--insetColumn}
-### 5. Optimizing Knowledge: Less Space, Faster Thinking {#7b50 .graf .graf--h3 .graf--leading name="7b50"}
+### 5. Optimizing Knowledge: Less Space, Faster Thinking
 
 Equally important to asking the right question is **storing knowledge
 with purpose.**
@@ -288,27 +213,18 @@ carrier" includes motorcycles, bicycles, wheelchairs.
 The solution: **Patterns shouldn't have a single level of abstraction.
 The question should determine which zoom level gets activated.**
 
-- [Level 1: Car = carrier]{#45f9}
-- [Level 2: Car = wheeled + powered carrier]{#ea8a}
-- [Level 3: Car = four-wheeled, motorized, enclosed]{#f73c}
-- [Level 4: BMW 3 Series, 2.0 diesel, 190 hp]{#7c04}
+- [Level 1: Car = carrier]
+- [Level 2: Car = wheeled + powered carrier]
+- [Level 3: Car = four-wheeled, motorized, enclosed]
+- [Level 4: BMW 3 Series, 2.0 diesel, 190 hp]
 
 When a question arrives, the system starts at Level 1. If it finds
 sufficient matches, it stops. If not, it descends. Never go deeper than
 necessary --- *lazy evaluation.*
-:::
-::::
-::::::
-
-:::::: {#92b6 .section .section .section--body}
-::: section-divider
 
 ------------------------------------------------------------------------
-:::
 
-:::: section-content
-::: {.section-inner .sectionLayout--insetColumn}
-### 6. Two Memories, One System {#2e48 .graf .graf--h3 .graf--leading name="2e48"}
+### 6. Two Memories, One System
 
 This leads to a critical architectural insight:
 
@@ -323,64 +239,46 @@ The biggest weakness of current LLM architecture is precisely here:
 everything is stored at the same resolution. The memory used for
 creative thinking and the memory used for carrying factual knowledge
 should be separate.
-:::
-::::
-::::::
-
-:::::: {#aa5c .section .section .section--body}
-::: section-divider
 
 ------------------------------------------------------------------------
-:::
 
-:::: section-content
-::: {.section-inner .sectionLayout--insetColumn}
-### 7. The Full System: The Algorithm of Creativity {#eef7 .graf .graf--h3 .graf--leading name="eef7"}
+### 7. The Full System: The Algorithm of Creativity
 
 Putting all the pieces together:
 
-``` {#c3be .graf .graf--pre .graf-after--p .graf--preV2 code-block-mode="1" spellcheck="false" code-block-lang="sql"}
+```
 1. QUESTION
    └── Goal-oriented, contains no method, unconstrained
 ```
 
-``` {#0baf .graf .graf--pre .graf-after--pre}
+```
 2. PATTERN POOL
    └── Optimized, stripped of detail
    └── Multi-level zoom (activated by the question)
    └── Creative LLM operates here
 ```
 
-``` {#8af0 .graf .graf--pre .graf-after--pre}
+```
 3. INCUBATION (sleep / background process)
    └── Directionless, unforced connection attempts
    └── Distant patterns meet at their edges
 ```
 
-``` {#aef0 .graf .graf--pre .graf-after--pre}
+```
 4. CONNECTION
    └── Successful → new, larger pattern
    └── Failed → discarded (or nightmare)
 ```
 
-``` {#90c9 .graf .graf--pre .graf-after--pre .graf--trailing}
+```
 5. SOLUTION
    └── Constraints flexible (spirit of the rule preserved, form questioned)
    └── Detail LLM fills the gaps
 ```
-:::
-::::
-::::::
-
-:::::: {#e0e5 .section .section .section--body}
-::: section-divider
 
 ------------------------------------------------------------------------
-:::
 
-:::: section-content
-::: {.section-inner .sectionLayout--insetColumn}
-### 8. A Practical Test: Citizens and the State {#3ecc .graf .graf--h3 .graf--leading name="3ecc"}
+### 8. A Practical Test: Citizens and the State
 
 Let's run the system against a real problem.
 
@@ -408,19 +306,10 @@ must remain on the citizen's device --- a locally running system.
 
 This doesn't just accelerate bureaucracy. **It eliminates the reason
 bureaucracy exists.**
-:::
-::::
-::::::
-
-:::::: {#4e15 .section .section .section--body}
-::: section-divider
 
 ------------------------------------------------------------------------
-:::
 
-:::: section-content
-::: {.section-inner .sectionLayout--insetColumn}
-### Conclusion {#5cc5 .graf .graf--h3 .graf--leading name="5cc5"}
+### Conclusion
 
 This article has argued one thing, from many angles:
 
@@ -436,32 +325,14 @@ knowledge architecture: multi-level zoom, lazy evaluation. We applied it
 to AI design: creative LLM + detail LLM.
 
 And at the beginning of all of it: **a good question.**
-:::
-::::
-::::::
-
-:::::: {#6ecb .section .section .section--body}
-::: section-divider
 
 ------------------------------------------------------------------------
-:::
 
-:::: section-content
-::: {.section-inner .sectionLayout--insetColumn}
 *If you see electric sheep in your dreams, feed them grass made of
 electricity. Sleep well.*
-:::
-::::
-::::::
-
-:::::: {#495e .section .section .section--body .section--last}
-::: section-divider
 
 ------------------------------------------------------------------------
-:::
 
-:::: section-content
-::: {.section-inner .sectionLayout--insetColumn}
 **About the author:** Emin, Retired Computer Engineer
 
 **Contributor:** Claude, an AI assistant developed by Anthropic. This
@@ -478,19 +349,12 @@ data-height="768"></span>
 </figure>
 
 *The Turkish text that inspired this article is*
-[*here*](https://github.com/emin2010dan/Prompts-for-AI-Conversations/blob/main/Prompts%20for%20The%20Algorithm%20of%20Creativity%28Turkish%29.md){.markup--anchor
-.markup--p-anchor
-data-href="https://github.com/emin2010dan/Prompts-for-AI-Conversations/blob/main/Prompts%20for%20The%20Algorithm%20of%20Creativity(Turkish).md"
-rel="noopener" target="_blank"}*.*
-:::
-::::
-::::::
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+[*here*](https://github.com/emin2010dan/Prompts-for-AI-Conversations/blob/main/Prompts%20for%20The%20Algorithm%20of%20Creativity%28Turkish%29.md)*.*
 
-By [Emin](https://medium.com/@emin2010dan){.p-author .h-card} on [April
+By [Emin](https://medium.com/@emin2010dan) on [April
 27, 2026](https://medium.com/p/60ed91310151).
 
 [Canonical
-link](https://medium.com/@emin2010dan/the-algorithm-of-creativity-sleeping-brains-patterns-and-artificial-intelligence-60ed91310151){.p-canonical}
+link](https://medium.com/@emin2010dan/the-algorithm-of-creativity-sleeping-brains-patterns-and-artificial-intelligence-60ed91310151)
 
 Exported from [Medium](https://medium.com) on June 12, 2026.

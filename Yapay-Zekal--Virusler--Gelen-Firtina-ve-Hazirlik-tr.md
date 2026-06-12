@@ -1,31 +1,20 @@
 <div>
 
-# Yapay Zekalı Virüsler: Gelen Fırtına ve Hazırlık {#yapay-zekalı-virüsler-gelen-fırtına-ve-hazırlık .p-name}
+# Yapay Zekalı Virüsler: Gelen Fırtına ve Hazırlık
 
 </div>
 
-::: {.section .p-summary field="subtitle"}
 Kırk yıllık güvenlik deneyiminin perspektifinden bir uyarı
-:::
-
-::::::::::::::::::::::::::::::::::::::: {.section .e-content field="body"}
-:::::: {#0e1c .section .section .section--body .section--first}
-::: section-divider
 
 ------------------------------------------------------------------------
-:::
 
-:::: section-content
-::: {.section-inner .sectionLayout--insetColumn}
-### Yapay Zekalı Virüsler: Gelen Fırtına ve Hazırlık {#df7a .graf .graf--h3 .graf--leading .graf--title name="df7a"}
+### Yapay Zekalı Virüsler: Gelen Fırtına ve Hazırlık
 
 *Kırk yıllık güvenlik deneyiminin perspektifinden bir uyarı*
 
 Bu makalenin İngilizce versiyonu için: \[[AI-Powered Viruses: The Coming
 Storm and How to
-Prepare](https://medium.com/p/9653ed8dd423){.markup--anchor
-.markup--p-anchor data-href="https://medium.com/p/9653ed8dd423"
-target="_blank"}\]
+Prepare](https://medium.com/p/9653ed8dd423)\]
 
 <figure id="7d3e"
 class="graf graf--figure graf-after--p graf--trailing">
@@ -33,19 +22,10 @@ class="graf graf--figure graf-after--p graf--trailing">
 class="graf-image" data-image-id="1*-O7IwB-9G6N29Lx__cYoIg.jpeg"
 data-width="2304" data-height="1792" />
 </figure>
-:::
-::::
-::::::
-
-:::::: {#d92c .section .section .section--body}
-::: section-divider
 
 ------------------------------------------------------------------------
-:::
 
-:::: section-content
-::: {.section-inner .sectionLayout--insetColumn}
-### Bunu Daha Önce Yaşadım {#7560 .graf .graf--h3 .graf--leading name="7560"}
+### Bunu Daha Önce Yaşadım
 
 1980\'lerin ortasıydı. Herkes disketten program paylaşıyordu. Kimse bir
 şeyin yanlış gidebileceğini düşünmüyordu. Sonra virüsler çıktı.
@@ -62,19 +42,10 @@ O zamanlar bilgisayar olmadan da hayat bir şekilde sürüyordu.
 
 Bugün benzer bir eşikte duruyoruz. Ama bu sefer tehdidin ölçeği farklı.
 Ve hazırlık için penceremiz daralıyor.
-:::
-::::
-::::::
-
-:::::: {#a3ea .section .section .section--body}
-::: section-divider
 
 ------------------------------------------------------------------------
-:::
 
-:::: section-content
-::: {.section-inner .sectionLayout--insetColumn}
-### Oyunu Değiştiren Şey: Açık Kaynak YZ'nin PC'lere İnmesi {#5e54 .graf .graf--h3 .graf--leading name="5e54"}
+### Oyunu Değiştiren Şey: Açık Kaynak YZ'nin PC'lere İnmesi
 
 Eğer yapay zeka sadece büyük veri merkezlerinde çalışan dev modeller
 olsaydı, bu makaleyi yazmıyordum. O senaryoda YZ virüs, ancak büyük
@@ -86,21 +57,12 @@ indirebiliyor, herkes çalıştırabiliyor, herkes eğitebiliyor. Bu, silahın
 fabrikasını mahalle bakkalına koymuş gibi.
 
 Bütün oyun burada değişti.
-:::
-::::
-::::::
-
-:::::: {#3362 .section .section .section--body}
-::: section-divider
 
 ------------------------------------------------------------------------
-:::
 
-:::: section-content
-::: {.section-inner .sectionLayout--insetColumn}
-### Mevcut Savunmanın Neden Yetersiz Olduğu {#2cd0 .graf .graf--h3 .graf--leading name="2cd0"}
+### Mevcut Savunmanın Neden Yetersiz Olduğu
 
-### İmza Tabanlı Yaklaşımın Yapısal Sınırı {#8c6f .graf .graf--h3 .graf-after--h3 name="8c6f"}
+### İmza Tabanlı Yaklaşımın Yapısal Sınırı
 
 Klasik antivirüsler dosyalarda bilinen imzaları arar. Bir virüsü daha
 önce gördüyse tanır. Daha önce görmemişse göremez.
@@ -112,7 +74,7 @@ geçti.
 
 Doğru yön. Ama bir adım geride.
 
-### Sandbox Paradoksu: Savunma, Saldırıyı Eğitiyor {#9d5c .graf .graf--h3 .graf-after--p name="9d5c"}
+### Sandbox Paradoksu: Savunma, Saldırıyı Eğitiyor
 
 Bir virüs yakalandığında antivirüs onu sandbox'a alır, merkeze gönderir,
 analiz eder, sistemi günceller. Bu mantıklı bir döngü.
@@ -126,7 +88,7 @@ protokolüne dönüşüyor.
 
 Ne kadar gelişmiş antivirüs, o kadar hızlı ve verimli keşif.
 
-### Davranış Analizi, Davranış Olmadığında Kör {#5cd2 .graf .graf--h3 .graf-after--p name="5cd2"}
+### Davranış Analizi, Davranış Olmadığında Kör
 
 Mevcut YZ destekli antivirüsler anormal davranış arıyor. Peki virüs
 anormal davranmıyorsa?
@@ -139,7 +101,7 @@ edecek.
 
 Davranış tabanlı savunma, davranış olmadığında tamamen kör.
 
-### YZ'lerin Güven Modelinin Manipülasyonu {#291c .graf .graf--h3 .graf-after--p name="291c"}
+### YZ'lerin Güven Modelinin Manipülasyonu
 
 Üç hafta önce bir Ubuntu güvenlik yazılımı arıyordum. Sorduğum tüm
 YZ'ler beni istisnasız aynı yere yönlendirdi: tanınmış bir programcının
@@ -156,19 +118,10 @@ oluşur. YZ'ler bu sinyali güvenilirlik olarak işler. Günü gelince tek
 bir güncellemeyle binlerce sisteme ulaşırsınız.
 
 Kimse ne olduğunu anlayamaz.
-:::
-::::
-::::::
-
-:::::: {#cda0 .section .section .section--body}
-::: section-divider
 
 ------------------------------------------------------------------------
-:::
 
-:::: section-content
-::: {.section-inner .sectionLayout--insetColumn}
-### Makine Kodu Katmanı: Görünmez Tehdit {#b3b0 .graf .graf--h3 .graf--leading name="b3b0"}
+### Makine Kodu Katmanı: Görünmez Tehdit
 
 Python veya C dünyasında düşünen bir güvenlik mühendisi, makine kodu
 dünyasında eğitilmiş bir virüsün ne yapabileceğini tahmin edemez.
@@ -189,24 +142,15 @@ izleyemiyor.
 WiFi antenine sızıp gönderilen ve alınan datayı analiz ederek yan
 odadaki kişilerin konumunu tespit etmek zaten başarıldı. Makine kodu
 dünyasında "imkansız" kelimesini dikkatli kullanmak gerekiyor.
-:::
-::::
-::::::
-
-:::::: {#f87f .section .section .section--body}
-::: section-divider
 
 ------------------------------------------------------------------------
-:::
 
-:::: section-content
-::: {.section-inner .sectionLayout--insetColumn}
-### Nasıl Hazırlanılabilir {#0f29 .graf .graf--h3 .graf--leading name="0f29"}
+### Nasıl Hazırlanılabilir
 
 Şunu baştan kabul etmek gerekiyor: ilk savunma hatlarının hızla düşmesi
 büyük ihtimal. Bu kabul edilmeden gerçekçi bir savunma planı yapılamaz.
 
-### Erken Uyarı Mekanizması {#778c .graf .graf--h3 .graf-after--p name="778c"}
+### Erken Uyarı Mekanizması
 
 En kritik ihtiyaç, ilk cephenin düştüğünü anlamak. Virüs sessiz hareket
 eder. Fark edilmeden şirketin her köşesine yayılmış olursa savaşacak
@@ -217,7 +161,7 @@ için bunun tam biçimini söylemek güç. Ama normal davranıştan sapmaları
 izleyen, anomaliyi erkenden sinyalleyen bir yapı olmadan diğer her şey
 anlamsız.
 
-### Saldırgana Tanıdık Zemin Verme {#2c24 .graf .graf--h3 .graf-after--p name="2c24"}
+### Saldırgana Tanıdık Zemin Verme
 
 1990\'larda ana sistemimi içi boş Linux'larla sardım. Sadece tek
 portları dışarı açıktı, içlerinde virüsün yapışabileceği yazılımlar
@@ -228,51 +172,42 @@ Standart ortam, standart saldırıyı davet eder. YZ virüs de önce ortamı
 tanımaya çalışacak. Beklenmedik bir mimariye girdiğinde uyum süreci
 uzar, bu süre savunmaya yarar.
 
-### Güç Dağılımı Mimarisi {#b235 .graf .graf--h3 .graf-after--p name="b235"}
+### Güç Dağılımı Mimarisi
 
 Tek bir süper kullanıcı yetkisi olmayan sistemler. Yasama, yürütme,
 yargı ayrımı gibi, hiçbir bileşenin tüm gücü toplamadığı bir
 yetkilendirme modeli. Bu size özel olmalı, standart olmamalı. Saldırgan
 beklemediği bir ortamda bulursa adaptasyon süresi uzar.
 
-### Aşı Tesisi Konsepti {#c807 .graf .graf--h3 .graf-after--p name="c807"}
+### Aşı Tesisi Konsepti
 
 Savunma sadece zaman kazandırır. Asıl hedef aşı geliştirmek.
 
 Bu tesisler şu özelliklere sahip olmalı:
 
 - [Dış dünyadan tam fiziksel izolasyon. Stuxnet'in İran'a nasıl
-  ulaştığını hatırlayın; USB bile güvenli değil.]{#b5e0}
+  ulaştığını hatırlayın; USB bile güvenli değil.]
 - [Bağımsız elektrik üretimi. Elektrik kablosu bile bir kanal
-  olabilir.]{#80a9}
-- [Faraday kafesi. Elektromanyetik izolasyon.]{#efd3}
+  olabilir.]
+- [Faraday kafesi. Elektromanyetik izolasyon.]
 - [Birden fazla tesis, birbirinden bağımsız. Çünkü biri ele geçirilirse
-  kapatmanız gerekecek.]{#8eee}
+  kapatmanız gerekecek.]
 
 Bu tesislerde birden fazla, birbirinden farklı mimaride YZ antivirüs
 çalışmalı. Farklı öğrenme yöntemleri, farklı yapılar. Çünkü tek mimariye
 mahkum olursanız tek tip aşı üretebilirsiniz.
 
-### Kademeli Eğitim Zorunluluğu {#fc8d .graf .graf--h3 .graf-after--p name="fc8d"}
+### Kademeli Eğitim Zorunluluğu
 
 Bir halterci birden 100 kg kaldıramaz. Önce 20, sonra 30, sonra 50.
 
 YZ antivirüsler de aynı şekilde eğitilmeli. Saldırı başladığında hazır
 olmayan bir sistemi aniden cepheye sürmek onu yok eder. Şimdiden eğitime
 başlanmalı.
-:::
-::::
-::::::
-
-:::::: {#f501 .section .section .section--body}
-::: section-divider
 
 ------------------------------------------------------------------------
-:::
 
-:::: section-content
-::: {.section-inner .sectionLayout--insetColumn}
-### Zaman Çizelgesi {#27dc .graf .graf--h3 .graf--leading name="27dc"}
+### Zaman Çizelgesi
 
 Savunma sıralaması şöyle düşünülebilir:
 
@@ -281,19 +216,10 @@ tesisleri devreye giriyor. Ana savunmalar tek tek gerilirken aşı
 geliştirme sürüyor. Son savunma düşmeden aşı hazır olmalı.
 
 General Kış gibi bir müttefikiniz yok. Zamana güvenemezsiniz.
-:::
-::::
-::::::
-
-:::::: {#fa87 .section .section .section--body}
-::: section-divider
 
 ------------------------------------------------------------------------
-:::
 
-:::: section-content
-::: {.section-inner .sectionLayout--insetColumn}
-### Son Söz {#f4d9 .graf .graf--h3 .graf--leading name="f4d9"}
+### Son Söz
 
 Radyumu keşfedince altın haplara koyup zenginlere canlandırıcı diye
 satanlar vardı. Sigaranın hamile kadınlara faydalı olduğunu söyleyen
@@ -312,31 +238,18 @@ zaman var.
 
 Hazırlık için pencere açık. Ne kadar süre açık kalacağını kimse
 bilmiyor.
-:::
-::::
-::::::
-
-:::::: {#44d2 .section .section .section--body .section--last}
-::: section-divider
 
 ------------------------------------------------------------------------
-:::
 
-:::: section-content
-::: {.section-inner .sectionLayout--insetColumn}
 *Yazar, 1980\'lerin ortasında devletin kritik bir bilgi işlem merkezinde
 teknik müdür olarak görev yapmış, Türkiye'nin ilk bilgi işlem güvenlik
 standartlarının yazılmasına katkıda bulunmuş ve sonraki on yıllarda
 güvenlik alanındaki gelişmeleri aktif olarak takip etmiştir.*
-:::
-::::
-::::::
-:::::::::::::::::::::::::::::::::::::::
 
-By [Emin](https://medium.com/@emin2010dan){.p-author .h-card} on [May 9,
+By [Emin](https://medium.com/@emin2010dan) on [May 9,
 2026](https://medium.com/p/8cea2a1bce13).
 
 [Canonical
-link](https://medium.com/@emin2010dan/yapay-zekal%C4%B1-vir%C3%BCsler-gelen-f%C4%B1rt%C4%B1na-ve-haz%C4%B1rl%C4%B1k-8cea2a1bce13){.p-canonical}
+link](https://medium.com/@emin2010dan/yapay-zekal%C4%B1-vir%C3%BCsler-gelen-f%C4%B1rt%C4%B1na-ve-haz%C4%B1rl%C4%B1k-8cea2a1bce13)
 
 Exported from [Medium](https://medium.com) on June 12, 2026.

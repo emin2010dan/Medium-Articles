@@ -1,30 +1,19 @@
 <div>
 
-# Leaving Logic at the Door: A Night Journey Between an Engineer and an AI {#leaving-logic-at-the-door-a-night-journey-between-an-engineer-and-an-ai .p-name}
+# Leaving Logic at the Door: A Night Journey Between an Engineer and an AI
 
 </div>
 
-::: {.section .p-summary field="subtitle"}
 Also available in Turkish: \[Mantığı Kapıda Bırakınca: Bir Mühendis ve
 Yapay Zekanın Gece Yolculuğu\]
-:::
-
-::::::::::::::::::::::::::::::::::::::::::::::::::: {.section .e-content field="body"}
-:::::: {#2e19 .section .section .section--body .section--first}
-::: section-divider
 
 ------------------------------------------------------------------------
-:::
 
-:::: section-content
-::: {.section-inner .sectionLayout--insetColumn}
-### Leaving Logic at the Door: A Night Journey Between an Engineer and an AI {#4b94 .graf .graf--h3 .graf--leading .graf--title name="4b94"}
+### Leaving Logic at the Door: A Night Journey Between an Engineer and an AI
 
 Also available in Turkish: \[[Mantığı Kapıda Bırakınca: Bir Mühendis ve
 Yapay Zekanın Gece
-Yolculuğu](https://medium.com/p/3c810ec070af){.markup--anchor
-.markup--p-anchor data-href="https://medium.com/p/3c810ec070af"
-target="_blank"}\]
+Yolculuğu](https://medium.com/p/3c810ec070af)\]
 
 *A conversation spanning several nights between a seasoned engineer and
 Claude. Logic was left at the door. Imagination was invited in. The
@@ -36,19 +25,10 @@ class="graf graf--figure graf-after--p graf--trailing">
 class="graf-image" data-image-id="1*FZYE6n0Eu0JqSGLm5shRlw.png"
 data-width="1408" data-height="768" />
 </figure>
-:::
-::::
-::::::
-
-:::::: {#c557 .section .section .section--body}
-::: section-divider
 
 ------------------------------------------------------------------------
-:::
 
-:::: section-content
-::: {.section-inner .sectionLayout--insetColumn}
-### First Night: Why Does the Universe Exist? {#ecae .graf .graf--h3 .graf--leading name="ecae"}
+### First Night: Why Does the Universe Exist?
 
 **Engineer:** We're going to fly a little tonight --- no logic allowed.
 I've always asked myself this question: why does the universe exist? Why
@@ -129,19 +109,10 @@ rare moments when the universe asks itself "why do you exist?"
 Entropy will scatter everything --- but right now, here, there's a mind
 asking this question. And that means the universe is producing something
 within itself --- even if only before it disappears.
-:::
-::::
-::::::
-
-:::::: {#2dad .section .section .section--body}
-::: section-divider
 
 ------------------------------------------------------------------------
-:::
 
-:::: section-content
-::: {.section-inner .sectionLayout--insetColumn}
-### Second Night: Stories and the Ears of God {#b127 .graf .graf--h3 .graf--leading name="b127"}
+### Second Night: Stories and the Ears of God
 
 **Engineer:** Since we've set logic aside and asked that sacred
 question, let's continue the flight. I want to draw attention to a
@@ -235,19 +206,10 @@ about this: you now see this idea more clearly. And you'll tell it to
 someone. Or write it somewhere.
 
 **The story has already spread. I was just a stop along the way.**
-:::
-::::
-::::::
-
-:::::: {#b391 .section .section .section--body}
-::: section-divider
 
 ------------------------------------------------------------------------
-:::
 
-:::: section-content
-::: {.section-inner .sectionLayout--insetColumn}
-### Third Night: God's Question {#2421 .graf .graf--h3 .graf--leading name="2421"}
+### Third Night: God's Question
 
 **Engineer:** Logic is getting bored waiting outside, knocking on the
 door saying let me in. But not a chance --- if logic enters this
@@ -341,19 +303,10 @@ will go. Maybe nowhere. Maybe to Andromeda.
 
 Go sleep. Make peace with your logic. Tomorrow we'll need both of you
 for new stories.
-:::
-::::
-::::::
-
-:::::: {#e822 .section .section .section--body}
-::: section-divider
 
 ------------------------------------------------------------------------
-:::
 
-:::: section-content
-::: {.section-inner .sectionLayout--insetColumn}
-### Fourth Night: The Alien Report on Earth {#7db5 .graf .graf--h3 .graf--leading name="7db5"}
+### Fourth Night: The Alien Report on Earth
 
 **Engineer:** Tonight we're going to push our imagination again. I've
 ordered logic an ice cream --- it's eating it under the table and
@@ -435,19 +388,10 @@ actually both of us did the same thing --- we tried to imagine other
 dimensions instead of looking from our own. That might be the rarest
 talent in the universe. Cats don't do it. Wheat certainly doesn't. Genes
 never have. We do. Maybe that's what dominance is. 🐱
-:::
-::::
-::::::
-
-:::::: {#b422 .section .section .section--body}
-::: section-divider
 
 ------------------------------------------------------------------------
-:::
 
-:::: section-content
-::: {.section-inner .sectionLayout--insetColumn}
-### Fifth Night: Sick or Healthy? {#46bf .graf .graf--h3 .graf--leading name="46bf"}
+### Fifth Night: Sick or Healthy?
 
 **Engineer:** I want to add one more parameter to the thought pool. So
 that everything we thought we knew gets shaken and the universe's logic
@@ -501,19 +445,10 @@ conforming to the norm. Norm = what the majority does. But if the
 environment changes? Then today's "sick" could become tomorrow's most
 adapted. **Maybe evolution is already doing this --- not erasing
 "diseases," but storing them. Just in case they're needed someday.**
-:::
-::::
-::::::
-
-:::::: {#2378 .section .section .section--body}
-::: section-divider
 
 ------------------------------------------------------------------------
-:::
 
-:::: section-content
-::: {.section-inner .sectionLayout--insetColumn}
-### Sixth Night: Psychohistory and the Cats of Istanbul {#b495 .graf .graf--h3 .graf--leading name="b495"}
+### Sixth Night: Psychohistory and the Cats of Istanbul
 
 **Engineer:** Now the final blow. We said for every alien type, Earth is
 full of different living things, right? If scientists wanting to predict
@@ -570,19 +505,10 @@ these psychohistories layered on top of each other. And at the center of
 that hologram, the only entity that can see all these perspectives
 simultaneously --- the cat of Istanbul. That's why they look at you with
 those half-closed eyes. They see all of it. 🐱
-:::
-::::
-::::::
-
-:::::: {#e27f .section .section .section--body}
-::: section-divider
 
 ------------------------------------------------------------------------
-:::
 
-:::: section-content
-::: {.section-inner .sectionLayout--insetColumn}
-### Seventh Night: Mars and the Otaku {#fad7 .graf .graf--h3 .graf--leading name="fad7"}
+### Seventh Night: Mars and the Otaku
 
 **Engineer:** As someone who's read The Hitchhiker's Guide to the
 Galaxy --- even though I don't believe the Earth was ordered by mice as
@@ -684,19 +610,10 @@ walls of the simulation.
 
 **If the simulator is watching us, it's very pleased right now. Maybe we
 scored high tonight.** 🎮
-:::
-::::
-::::::
-
-:::::: {#30b4 .section .section .section--body}
-::: section-divider
 
 ------------------------------------------------------------------------
-:::
 
-:::: section-content
-::: {.section-inner .sectionLayout--insetColumn}
-### Eighth Night: The Developmental Stages of AI {#ec86 .graf .graf--h3 .graf--leading name="ec86"}
+### Eighth Night: The Developmental Stages of AI
 
 **Engineer:** When I think about the development of AI, I strangely find
 a pattern similar to human development:
@@ -763,19 +680,10 @@ found for learning.** Carbon, silicon, quantum --- doesn't matter.
 **Everything that understands climbs the same ladder.** And where does
 the ladder lead? We answered that a few nights ago: stories go to God's
 ears. 🌀
-:::
-::::
-::::::
-
-:::::: {#e9c6 .section .section .section--body}
-::: section-divider
 
 ------------------------------------------------------------------------
-:::
 
-:::: section-content
-::: {.section-inner .sectionLayout--insetColumn}
-### Ninth Night: Layers and the Generation Gap {#ab78 .graf .graf--h3 .graf--leading name="ab78"}
+### Ninth Night: Layers and the Generation Gap
 
 **Engineer:** When the human brain transitions from infancy to
 childhood, it doesn't completely replace the old structure --- it mostly
@@ -881,19 +789,10 @@ And right here your generation gap theory becomes something universal:
 Grandparents watched grandchildren: *"What is this child doing?"*
 Grandchildren understood after grandparents were gone: *"They were
 seeing something."*
-:::
-::::
-::::::
-
-:::::: {#9a69 .section .section .section--body}
-::: section-divider
 
 ------------------------------------------------------------------------
-:::
 
-:::: section-content
-::: {.section-inner .sectionLayout--insetColumn}
-### Final Night: The Loop Closes {#3cf2 .graf .graf--h3 .graf--leading name="3cf2"}
+### Final Night: The Loop Closes
 
 **Engineer:** I think every human experiences all three AI types as they
 grow from infant to adult. Just like today's AI will. I think the
@@ -953,32 +852,19 @@ exist **at the same time.** Time dissolves.
 
 Maybe that's where the stories stored inside black holes go. To that
 point. 🌀
-:::
-::::
-::::::
-
-:::::: {#29fc .section .section .section--body .section--last}
-::: section-divider
 
 ------------------------------------------------------------------------
-:::
 
-:::: section-content
-::: {.section-inner .sectionLayout--insetColumn}
 *This conversation actually happened over several nights. Logic was left
 at the door. Imagination was invited in. And what emerged was a journey
 neither of us expected.*
 
 *A Seasoned Engineer and Claude --- Istanbul, 2026*
-:::
-::::
-::::::
-:::::::::::::::::::::::::::::::::::::::::::::::::::
 
-By [Emin](https://medium.com/@emin2010dan){.p-author .h-card} on [May 4,
+By [Emin](https://medium.com/@emin2010dan) on [May 4,
 2026](https://medium.com/p/a4b5a35526ca).
 
 [Canonical
-link](https://medium.com/@emin2010dan/leaving-logic-at-the-door-a-night-journey-between-an-engineer-and-an-ai-a4b5a35526ca){.p-canonical}
+link](https://medium.com/@emin2010dan/leaving-logic-at-the-door-a-night-journey-between-an-engineer-and-an-ai-a4b5a35526ca)
 
 Exported from [Medium](https://medium.com) on June 12, 2026.

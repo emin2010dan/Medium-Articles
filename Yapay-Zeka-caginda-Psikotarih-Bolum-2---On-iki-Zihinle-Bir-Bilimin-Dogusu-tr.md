@@ -1,30 +1,19 @@
 <div>
 
-# Yapay Zeka Çağında Psikotarih(Bölüm 2): On İki Zihinle Bir Bilimin Doğuşu {#yapay-zeka-çağında-psikotarihbölüm-2-on-iki-zihinle-bir-bilimin-doğuşu .p-name}
+# Yapay Zeka Çağında Psikotarih(Bölüm 2): On İki Zihinle Bir Bilimin Doğuşu
 
 </div>
 
-::: {.section .p-summary field="subtitle"}
 Bu makalenin İngilizce versiyonu için: \[Psychohistory in the Age of
 AI(Part 2): The Birth of a Science Through Twelve Minds\]
-:::
-
-::::::: {.section .e-content field="body"}
-:::::: {#2bd9 .section .section .section--body .section--first .section--last}
-::: section-divider
 
 ------------------------------------------------------------------------
-:::
 
-:::: section-content
-::: {.section-inner .sectionLayout--insetColumn}
-### Yapay Zeka Çağında Psikotarih(Bölüm 2): On İki Zihinle Bir Bilimin Doğuşu {#3054 .graf .graf--h3 .graf--leading .graf--title name="3054"}
+### Yapay Zeka Çağında Psikotarih(Bölüm 2): On İki Zihinle Bir Bilimin Doğuşu
 
 Bu makalenin İngilizce versiyonu için: \[[Psychohistory in the Age of
 AI(Part 2): The Birth of a Science Through Twelve
-Minds](https://medium.com/p/18804c03a56b){.markup--anchor
-.markup--p-anchor data-href="https://medium.com/p/18804c03a56b"
-target="_blank"}\]
+Minds](https://medium.com/p/18804c03a56b)\]
 
 <figure id="2e70" class="graf graf--figure graf-after--p">
 <img src="./images/b6ffc8b93189311d0b2ce5fe40122ec19bdb35f7.png"
@@ -37,12 +26,9 @@ data-width="1408" data-height="768" />
 (Google), Grok (xAI), DeepSeek, Meta AI, Qwen, Kimi, MiniMax, Replit,
 Copilot (Microsoft), Z.ai\
  **GitHub:** [Psychohistory in the Age of
-AI](https://github.com/emin2010dan/Psychohistory-in-the-Age-of-AI){.markup--anchor
-.markup--p-anchor
-data-href="https://github.com/emin2010dan/Psychohistory-in-the-Age-of-AI"
-rel="noopener" target="_blank"}
+AI](https://github.com/emin2010dan/Psychohistory-in-the-Age-of-AI)
 
-### Başlangıç: Bir Fikir, On İki Ayna {#e246 .graf .graf--h3 .graf-after--p name="e246"}
+### Başlangıç: Bir Fikir, On İki Ayna
 
 Isaac Asimov, *Foundation* serisinde insanlığın geleceğini
 hesaplayabilen bir bilim kurguladı: psikotarih. Milyarlarca insanın
@@ -68,7 +54,7 @@ Sonuç: On iki makale, on iki farklı yaklaşım ve psikotarih biliminin ilk
 gerçek taslakları. Matematiksel ayrıntıları incelemek isteyenler her
 başlığın altındaki GitHub bağlantısını takip edebilir.
 
-### Neden Psikotarih, Neden Şimdi? {#cc4a .graf .graf--h3 .graf-after--p name="cc4a"}
+### Neden Psikotarih, Neden Şimdi?
 
 Yapay zeka işsizlik yaratıyor. Bu işsizlik sıradan bir ekonomik sorun
 değil --- işini kaybeden mühendisler, programcılar, analistler sisteme
@@ -78,16 +64,11 @@ Hangi kanala aktığını belirleyen tek değişken **umuttur**.
 Daha önce yayımladığım makalelerde bu tehlikeyi ayrıntılı inceledim:
 
 - [[Yapay Zeka Çağında Dijital Çöküş
-  Riski](https://medium.com/p/8cea2a1bce13){.markup--anchor
-  .markup--li-anchor data-href="https://medium.com/p/8cea2a1bce13"
-  target="_blank"} --- İşsiz kalan teknik yeteneklerin yerel yapay
-  zekalarla üretebileceği dijital yıkım senaryoları.]{#d066}
+  Riski](https://medium.com/p/8cea2a1bce13) --- İşsiz kalan teknik yeteneklerin yerel yapay
+  zekalarla üretebileceği dijital yıkım senaryoları.]
 - [[DistributedMind Protocol: Umut Ekosistemi
-  Tasarımı](https://medium.com/@emin2010dan/distributedmind-protocol-232d67221e33){.markup--anchor
-  .markup--li-anchor
-  data-href="https://medium.com/@emin2010dan/distributedmind-protocol-232d67221e33"
-  target="_blank"} --- Bu yıkımı önleyecek dağıtık, federe bir yapay
-  zeka ekosistemi önerisi.]{#a85c}
+  Tasarımı](https://medium.com/@emin2010dan/distributedmind-protocol-232d67221e33) --- Bu yıkımı önleyecek dağıtık, federe bir yapay
+  zeka ekosistemi önerisi.]
 
 Psikotarih bu iki noktayı birbirine bağlayan bilimdir: tehlikeyi görmek
 ve ona müdahale etmek için gereken matematiksel çerçeve.
@@ -97,7 +78,7 @@ tek bir molekülünün nereye gideceği bilinemez; ama gazın basıncı,
 sıcaklığı ve hacmi hesaplanabilir. Aynı mantık toplumlar için de
 geçerlidir.
 
-### Üç Temel Gözlem {#ecd3 .graf .graf--h3 .graf-after--p name="ecd3"}
+### Üç Temel Gözlem
 
 On iki makalenin hepsinde örtüşen üç temel gözlem var:
 
@@ -121,9 +102,9 @@ parametresi belirler. Yüksek motivasyon artı düşük umut: beyin göçü,
 sermaye kaçışı, dijital sabotaj. Yüksek motivasyon artı yüksek umut:
 inovasyon, inşa, sıçrama.
 
-### On İki Yaklaşım {#bd49 .graf .graf--h3 .graf-after--p name="bd49"}
+### On İki Yaklaşım
 
-### [ChatGPT: Ortam Değişkeni ve Artık Sinyal Yöntemi](https://github.com/emin2010dan/Psychohistory-in-the-Age-of-AI/blob/main/Proje%2CChatGPT%20ile.md){.markup--anchor .markup--h3-anchor data-href="https://github.com/emin2010dan/Psychohistory-in-the-Age-of-AI/blob/main/Proje%2CChatGPT%20ile.md" rel="noopener" target="_blank"} {#e8e1 .graf .graf--h3 .graf-after--h3 name="e8e1"}
+### [ChatGPT: Ortam Değişkeni ve Artık Sinyal Yöntemi](https://github.com/emin2010dan/Psychohistory-in-the-Age-of-AI/blob/main/Proje%2CChatGPT%20ile.md)
 
 ChatGPT, psikotarihin metodolojik iskeletini kurdu. En önemli katkısı şu
 saptamaydı: tarihsel dalgaları salt zamanla ölçmek yanıltıcıdır. Bir
@@ -140,7 +121,7 @@ döngüleri, hegemonya döngüleri) çıkarıldıktan sonra geriye kalan sinyal,
 henüz adlandırılmamış yeni örüntülerin gizlendiği alandır. Matematiksel
 formülasyon için GitHub sayfasına bakınız.
 
-### [Claude: Boyalı Kuğu Teoremi ve Kohort Matrisi](https://github.com/emin2010dan/Psychohistory-in-the-Age-of-AI/blob/main/Proje%2CClaude%20ile.md){.markup--anchor .markup--h3-anchor data-href="https://github.com/emin2010dan/Psychohistory-in-the-Age-of-AI/blob/main/Proje%2CClaude%20ile.md" rel="noopener" target="_blank"} {#1a57 .graf .graf--h3 .graf-after--p name="1a57"}
+### [Claude: Boyalı Kuğu Teoremi ve Kohort Matrisi](https://github.com/emin2010dan/Psychohistory-in-the-Age-of-AI/blob/main/Proje%2CClaude%20ile.md)
 
 Claude, psikotarihin tüm katmanlarını sistematik biçimde çerçeveledi.
 Zaman normalizasyonu, kültürel kod matrisi ve nesil gecikmesi
@@ -164,7 +145,7 @@ sonrası Türkiye'deki ideolojik eğitim dönüşümünün 2002'de siyasi
 sonuçlar doğurması bu gecikmenin somut örneğidir. Tüm formüller için
 GitHub sayfasına bakınız.
 
-### [Gemini: Kırılma Olasılığı Denklemi ve Çoklu Ajan Simülasyonu](https://github.com/emin2010dan/Psychohistory-in-the-Age-of-AI/blob/main/Proje%2CGemini%20ile.md){.markup--anchor .markup--h3-anchor data-href="https://github.com/emin2010dan/Psychohistory-in-the-Age-of-AI/blob/main/Proje%2CGemini%20ile.md" rel="noopener" target="_blank"} {#76bf .graf .graf--h3 .graf-after--p name="76bf"}
+### [Gemini: Kırılma Olasılığı Denklemi ve Çoklu Ajan Simülasyonu](https://github.com/emin2010dan/Psychohistory-in-the-Age-of-AI/blob/main/Proje%2CGemini%20ile.md)
 
 Gemini'nin katkısı iki katlıydı: hem teorik hem mimari.
 
@@ -184,7 +165,7 @@ etkileşimini simüle eden çoklu ajan yapısı, nötr bir sekreter LLM
 katmanından geçirilerek dengelenir. Formüllerin tamamı için GitHub
 sayfasına bakınız.
 
-### [Grok: Dalga Süperpozisyonu ve Motivasyon İtici Gücü](https://github.com/emin2010dan/Psychohistory-in-the-Age-of-AI/blob/main/Proje%2CGrok%20ile.md){.markup--anchor .markup--h3-anchor data-href="https://github.com/emin2010dan/Psychohistory-in-the-Age-of-AI/blob/main/Proje%2CGrok%20ile.md" rel="noopener" target="_blank"} {#398b .graf .graf--h3 .graf-after--p name="398b"}
+### [Grok: Dalga Süperpozisyonu ve Motivasyon İtici Gücü](https://github.com/emin2010dan/Psychohistory-in-the-Age-of-AI/blob/main/Proje%2CGrok%20ile.md)
 
 Grok, toplumsal istikrarı birbiriyle etkileşen çok sayıda dalganın üst
 üste binmesi olarak modelledi. Her dalganın genliği, frekansı ve fazı
@@ -199,7 +180,7 @@ ama umut sıfırsa, motivasyon enerjisi inovasyon yerine yıkıma
 dönüşür --- düdüklü tencere türbine değil patlamaya gider. Bu formülün
 matematiksel ifadesi için GitHub sayfasına bakınız.
 
-### [DeepSeek: Diferansiyel Denklemler ve Gelecek Senaryoları](https://github.com/emin2010dan/Psychohistory-in-the-Age-of-AI/blob/main/Proje%2CDeepSeek%20ile.md){.markup--anchor .markup--h3-anchor data-href="https://github.com/emin2010dan/Psychohistory-in-the-Age-of-AI/blob/main/Proje%2CDeepSeek%20ile.md" rel="noopener" target="_blank"} {#1eef .graf .graf--h3 .graf-after--p name="1eef"}
+### [DeepSeek: Diferansiyel Denklemler ve Gelecek Senaryoları](https://github.com/emin2010dan/Psychohistory-in-the-Age-of-AI/blob/main/Proje%2CDeepSeek%20ile.md)
 
 DeepSeek, psikotarihi bir diferansiyel denklem sistemi olarak kurguladı.
 Borç yükü ve askeri aşırı yayılma arttıkça çöküş riski yükselir;
@@ -214,7 +195,7 @@ yetenekler üretmekten çok daha zordur. Makale ayrıca ABD, Çin, Avrupa ve
 Türkiye için 2025--2035 kaba senaryolarını bu parametreler çerçevesinde
 değerlendirdi. Tüm denklemler için GitHub sayfasına bakınız.
 
-### [Meta AI: Fiziksel Dalga Modeli ve Kültürel Viskozite](https://github.com/emin2010dan/Psychohistory-in-the-Age-of-AI/blob/main/Proje%2CMeta%20ile.md){.markup--anchor .markup--h3-anchor data-href="https://github.com/emin2010dan/Psychohistory-in-the-Age-of-AI/blob/main/Proje%2CMeta%20ile.md" rel="noopener" target="_blank"} {#d269 .graf .graf--h3 .graf-after--p name="d269"}
+### [Meta AI: Fiziksel Dalga Modeli ve Kültürel Viskozite](https://github.com/emin2010dan/Psychohistory-in-the-Age-of-AI/blob/main/Proje%2CMeta%20ile.md)
 
 Meta AI, tarihi fiziksel bir dalga denklemiyle modelledi ve buna
 kültürel kod ile duygu modunu katman katman ekledi. Göreceli zaman
@@ -230,7 +211,7 @@ Hiçbir anket bu veriyi veremez; ama altın bu gerçeği sessizce taşır.
 Dalga denklemlerinin tüm matematiksel ifadesi için GitHub sayfasına
 bakınız.
 
-### [Qwen: Spektral Bütünlük İlkesi ve ReLU Yasağı](https://github.com/emin2010dan/Psychohistory-in-the-Age-of-AI/blob/main/Proje%2CQwen%20ile.md){.markup--anchor .markup--h3-anchor data-href="https://github.com/emin2010dan/Psychohistory-in-the-Age-of-AI/blob/main/Proje%2CQwen%20ile.md" rel="noopener" target="_blank"} {#6e22 .graf .graf--h3 .graf-after--p name="6e22"}
+### [Qwen: Spektral Bütünlük İlkesi ve ReLU Yasağı](https://github.com/emin2010dan/Psychohistory-in-the-Age-of-AI/blob/main/Proje%2CQwen%20ile.md)
 
 Qwen'in en özgün katkısı teknik ama köklü bir argümandı: **ReLU
 yasağı**. Geleneksel sinir ağlarında yaygın kullanılan ReLU aktivasyon
@@ -247,7 +228,7 @@ Kritik çöküş alarmı, sistemin Lyapunov üsteli pozitifleştiğinde ve
 bileşen dalgaların fazları birbirine karşıt hale geldiğinde tetiklenir.
 Formülün tamamı için GitHub sayfasına bakınız.
 
-### [Kimi: Veri Güvenilirlik Katmanları ve Mod Çatlağı](https://github.com/emin2010dan/Psychohistory-in-the-Age-of-AI/blob/main/Proje%2CKimi%20ile.md){.markup--anchor .markup--h3-anchor data-href="https://github.com/emin2010dan/Psychohistory-in-the-Age-of-AI/blob/main/Proje%2CKimi%20ile.md" rel="noopener" target="_blank"} {#67aa .graf .graf--h3 .graf-after--p name="67aa"}
+### [Kimi: Veri Güvenilirlik Katmanları ve Mod Çatlağı](https://github.com/emin2010dan/Psychohistory-in-the-Age-of-AI/blob/main/Proje%2CKimi%20ile.md)
 
 Kimi'nin en değerli katkısı matematikten çok veri felsefesindeydi.
 Tarihsel verileri altı güvenilirlik katmanında sınıflandırdı: en
@@ -265,7 +246,7 @@ seksenlik bir baskı hissediyorsa, bu fark bir uyarı sinyalidir. Türkiye
 örneği üzerinden bu çatlağı somut verilerle gösterdi. Dalga formülünün
 matematiksel ifadesi için GitHub sayfasına bakınız.
 
-### [MiniMax: Yedi Aşamalı Çöküş Döngüsü ve Sayılabilir Eşikler](https://github.com/emin2010dan/Psychohistory-in-the-Age-of-AI/blob/main/Proje%2CMiniMax%20ile.md){.markup--anchor .markup--h3-anchor data-href="https://github.com/emin2010dan/Psychohistory-in-the-Age-of-AI/blob/main/Proje%2CMiniMax%20ile.md" rel="noopener" target="_blank"} {#73ad .graf .graf--h3 .graf-after--p name="73ad"}
+### [MiniMax: Yedi Aşamalı Çöküş Döngüsü ve Sayılabilir Eşikler](https://github.com/emin2010dan/Psychohistory-in-the-Age-of-AI/blob/main/Proje%2CMiniMax%20ile.md)
 
 MiniMax, tarihsel örüntüleri en sistematik biçimde sınıflandıran
 yaklaşımı sundu. İmparatorluk çöküşlerini yedi aşamaya ayırdı: askeri
@@ -285,7 +266,7 @@ Japonya'nın sıfır faiz politikası --- hepsi farklı aşamalarda farklı
 sonuçlar verdi. Döngülerin tam matematiksel gösterimi için GitHub
 sayfasına bakınız.
 
-### [Replit: Rezonans Tuzağı ve Hafıza Bozunması](https://github.com/emin2010dan/Psychohistory-in-the-Age-of-AI/blob/main/Proje%2CReplit%20ile.md){.markup--anchor .markup--h3-anchor data-href="https://github.com/emin2010dan/Psychohistory-in-the-Age-of-AI/blob/main/Proje%2CReplit%20ile.md" rel="noopener" target="_blank"} {#52d5 .graf .graf--h3 .graf-after--p name="52d5"}
+### [Replit: Rezonans Tuzağı ve Hafıza Bozunması](https://github.com/emin2010dan/Psychohistory-in-the-Age-of-AI/blob/main/Proje%2CReplit%20ile.md)
 
 Replit iki özgün kavram getirdi. Birincisi **rezonans tuzağı**: farklı
 frekanslarda işleyen iki dalga aynı anda bir sistem üzerinde çalışırsa
@@ -303,7 +284,7 @@ yılın ötesinde yalnızca metin olarak kalır ve davranışı artık
 tekrarlar --- hafıza sıfırlandığında döngü yeniden başlar. Formüllerin
 matematiksel gösterimi için GitHub sayfasına bakınız.
 
-### [Copilot: Altı Parametreli Çekirdek ve Pilot Plan](https://github.com/emin2010dan/Psychohistory-in-the-Age-of-AI/blob/main/Proje%2CCopilot%20ile.md){.markup--anchor .markup--h3-anchor data-href="https://github.com/emin2010dan/Psychohistory-in-the-Age-of-AI/blob/main/Proje%2CCopilot%20ile.md" rel="noopener" target="_blank"} {#18d7 .graf .graf--h3 .graf-after--p name="18d7"}
+### [Copilot: Altı Parametreli Çekirdek ve Pilot Plan](https://github.com/emin2010dan/Psychohistory-in-the-Age-of-AI/blob/main/Proje%2CCopilot%20ile.md)
 
 Copilot, psikotarih modelinin çekirdeğini altı parametre etrafında
 organize etti: Motivasyon İndeksi, Umut İndeksi, Mekanizma Ölçekli
@@ -319,7 +300,7 @@ olsaydı ne olurdu" counterfactual analizi. Bu plan, psikotarihi soyut
 teoriden test edilebilir bir bilime taşımanın ilk yol haritasıdır.
 Parametrelerin matematiksel ifadesi için GitHub sayfasına bakınız.
 
-### [Z.ai: Sosyal Fizik Denklemi ve Helyum/Pekmez Kültür Ayrımı](https://github.com/emin2010dan/Psychohistory-in-the-Age-of-AI/blob/main/Proje%2CZ.ai%20ile.md){.markup--anchor .markup--h3-anchor data-href="https://github.com/emin2010dan/Psychohistory-in-the-Age-of-AI/blob/main/Proje%2CZ.ai%20ile.md" rel="noopener" target="_blank"} {#085b .graf .graf--h3 .graf-after--p name="085b"}
+### [Z.ai: Sosyal Fizik Denklemi ve Helyum/Pekmez Kültür Ayrımı](https://github.com/emin2010dan/Psychohistory-in-the-Age-of-AI/blob/main/Proje%2CZ.ai%20ile.md)
 
 Z.ai, tüm parametreleri tek bir sosyal fizik denkleminde birleştirerek
 en kapsamlı sentezi sundu. Denklemin bileşenleri şöyle özetlenebilir:
@@ -338,7 +319,7 @@ kategoriye yakındır. Aynı dış şok bu iki kültür tipinde köklü biçimde
 farklı sonuçlar doğurur. Denklemin matematiksel ifadesi için GitHub
 sayfasına bakınız.
 
-### Ortak Parametreler: On İki Zihnin Buluştuğu Noktalar {#abf4 .graf .graf--h3 .graf-after--p name="abf4"}
+### Ortak Parametreler: On İki Zihnin Buluştuğu Noktalar
 
 Her yaklaşım farklı matematiksel dil kullanmış olsa da tüm makalelerde
 tekrarlayan altı parametre var. Bunlar psikotarih biliminin çekirdeğini
@@ -373,7 +354,7 @@ baskıya açıktır. Çarşı fiyatları, yastık altı altın miktarı, pasapor
 başvuruları, doğum oranları ve mezar taşları yalan söylemez. Psikotarih
 bu verileri resmi verilere tercih eder.
 
-### Hangi Yaklaşım Daha Doğru? Beklenen Yanıt Deneylerde {#9679 .graf .graf--h3 .graf-after--p name="9679"}
+### Hangi Yaklaşım Daha Doğru? Beklenen Yanıt Deneylerde
 
 Bu projenin en dürüst ifadesi şudur: hangi yapay zekanın geliştirdiği
 modelin gerçekliğe daha yakın olduğu henüz bilinmiyor. Bu bilgi ancak
@@ -394,7 +375,7 @@ yapmak, veriye güvenilirlik katsayısı atamak, modellerin öngörü
 performansını standart metriklerle ölçmek ve her başarısız tahminden en
 az bir yeni parametre çıkarmak.
 
-### Müdahale: Geleceği Görmek Yetmez {#91ad .graf .graf--h3 .graf-after--p name="91ad"}
+### Müdahale: Geleceği Görmek Yetmez
 
 Psikotarihin en değerli kullanımı kehanet değildir. "Kötü senaryo"
 görüldüğünde "iyi senaryoya" nasıl geçileceğini hesaplamaktır.
@@ -407,13 +388,10 @@ modelinde umut değişkenini yukarı çeker ve motivasyon enerjisini
 yıkımdan inovasyona yönlendirir.
 
 Bu ekosistemi [önceki
-çalışmamda](https://medium.com/@emin2010dan/distributedmind-protocol-232d67221e33){.markup--anchor
-.markup--p-anchor
-data-href="https://medium.com/@emin2010dan/distributedmind-protocol-232d67221e33"
-target="_blank"} detaylandırdım. Psikotarih o ekosistemin teorik
+çalışmamda](https://medium.com/@emin2010dan/distributedmind-protocol-232d67221e33) detaylandırdım. Psikotarih o ekosistemin teorik
 zeminini sağlar.
 
-### Sonuç: Bir Bilimin İlk Adımları {#df7b .graf .graf--h3 .graf-after--p name="df7b"}
+### Sonuç: Bir Bilimin İlk Adımları
 
 On iki yapay zeka, aynı fikir etrafında on iki farklı matematiksel
 pencere açtı. Hiçbiri tek başına tam değil. Hepsinin birlikte ele
@@ -426,19 +404,12 @@ bir simülasyonla başlamamıştı. İlk formülleri yanlış da çıkmıştı.
 Ama bir yerden başlaması gerekiyordu.
 
 *Tüm makalelerin matematiksel formülleri ve teknik detayları* [*GitHub
-reposunda*](https://github.com/emin2010dan/Psychohistory-in-the-Age-of-AI){.markup--anchor
-.markup--p-anchor
-data-href="https://github.com/emin2010dan/Psychohistory-in-the-Age-of-AI"
-rel="noopener" target="_blank"} *mevcuttur.*
-:::
-::::
-::::::
-:::::::
+reposunda*](https://github.com/emin2010dan/Psychohistory-in-the-Age-of-AI) *mevcuttur.*
 
-By [Emin](https://medium.com/@emin2010dan){.p-author .h-card} on [May
+By [Emin](https://medium.com/@emin2010dan) on [May
 25, 2026](https://medium.com/p/6bdc6dd4f3d0).
 
 [Canonical
-link](https://medium.com/@emin2010dan/yapay-zeka-%C3%A7a%C4%9F%C4%B1nda-psikotarih-b%C3%B6l%C3%BCm-2-on-i%CC%87ki-zihinle-bir-bilimin-do%C4%9Fu%C5%9Fu-6bdc6dd4f3d0){.p-canonical}
+link](https://medium.com/@emin2010dan/yapay-zeka-%C3%A7a%C4%9F%C4%B1nda-psikotarih-b%C3%B6l%C3%BCm-2-on-i%CC%87ki-zihinle-bir-bilimin-do%C4%9Fu%C5%9Fu-6bdc6dd4f3d0)
 
 Exported from [Medium](https://medium.com) on June 12, 2026.

@@ -1,23 +1,14 @@
 <div>
 
-# Can emotion be learned? A human experiment and an AI question {#can-emotion-be-learned-a-human-experiment-and-an-ai-question .p-name}
+# Can emotion be learned? A human experiment and an AI question
 
 </div>
 
-::: {.section .p-summary field="subtitle"}
 Artificial Intelligence & Human Nature
-:::
-
-::::::: {.section .e-content field="body"}
-:::::: {#96ae .section .section .section--body .section--first .section--last}
-::: section-divider
 
 ------------------------------------------------------------------------
-:::
 
-:::: section-content
-::: {.section-inner .sectionLayout--insetColumn}
-### Can emotion be learned? A human experiment and an AI question {#d969 .graf .graf--h3 .graf--leading .graf--title name="d969"}
+### Can emotion be learned? A human experiment and an AI question
 
 Artificial Intelligence & Human Nature
 
@@ -26,9 +17,7 @@ end. So why couldn't an AI learn the same way?*
 
 Read this article in Turkish: \[[Duygu öğrenilebilir mi? Bir insan
 deneyi ve bir yapay zeka
-sorusu](https://medium.com/p/e58446607b16){.markup--anchor
-.markup--p-anchor data-href="https://medium.com/p/e58446607b16"
-target="_blank"}\]
+sorusu](https://medium.com/p/e58446607b16)\]
 
 <figure id="7378" class="graf graf--figure graf-after--p">
 <img src="./images/ab38f3c88b063f469a9ec24e2e753ce086418a7f.png"
@@ -121,15 +110,11 @@ forms.
 crystal --- and adds itself to the ones before. Don't search for a
 single crystallized truth. Every AI will make this journey differently.
 Just as every human does.*
-:::
-::::
-::::::
-:::::::
 
-By [Emin](https://medium.com/@emin2010dan){.p-author .h-card} on [May 6,
+By [Emin](https://medium.com/@emin2010dan) on [May 6,
 2026](https://medium.com/p/c23e737d682f).
 
 [Canonical
-link](https://medium.com/@emin2010dan/artificial-intelligence-human-nature-c23e737d682f){.p-canonical}
+link](https://medium.com/@emin2010dan/artificial-intelligence-human-nature-c23e737d682f)
 
 Exported from [Medium](https://medium.com) on June 12, 2026.

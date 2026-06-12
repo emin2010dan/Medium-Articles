@@ -1,30 +1,19 @@
 <div>
 
-# AI-Powered Viruses: The Coming Storm and How to Prepare {#ai-powered-viruses-the-coming-storm-and-how-to-prepare .p-name}
+# AI-Powered Viruses: The Coming Storm and How to Prepare
 
 </div>
 
-::: {.section .p-summary field="subtitle"}
 A warning from forty years on the front lines of cybersecurity
-:::
-
-::::::::::::::::::::::::::::::::::::::: {.section .e-content field="body"}
-:::::: {#dc05 .section .section .section--body .section--first}
-::: section-divider
 
 ------------------------------------------------------------------------
-:::
 
-:::: section-content
-::: {.section-inner .sectionLayout--insetColumn}
-### AI-Powered Viruses: The Coming Storm and How to Prepare {#46b7 .graf .graf--h3 .graf--leading .graf--title name="46b7"}
+### AI-Powered Viruses: The Coming Storm and How to Prepare
 
 *A warning from forty years on the front lines of cybersecurity*
 
 Read this article in Turkish: \[[Yapay Zekalı Virüsler: Gelen Fırtına ve
-Hazırlık](https://medium.com/p/8cea2a1bce13){.markup--anchor
-.markup--p-anchor data-href="https://medium.com/p/8cea2a1bce13"
-target="_blank"}\]
+Hazırlık](https://medium.com/p/8cea2a1bce13)\]
 
 <figure id="bb34"
 class="graf graf--figure graf-after--p graf--trailing">
@@ -32,19 +21,10 @@ class="graf graf--figure graf-after--p graf--trailing">
 class="graf-image" data-image-id="1*-O7IwB-9G6N29Lx__cYoIg.jpeg"
 data-width="2304" data-height="1792" />
 </figure>
-:::
-::::
-::::::
-
-:::::: {#edb0 .section .section .section--body}
-::: section-divider
 
 ------------------------------------------------------------------------
-:::
 
-:::: section-content
-::: {.section-inner .sectionLayout--insetColumn}
-### I Have Seen This Before {#67c5 .graf .graf--h3 .graf--leading name="67c5"}
+### I Have Seen This Before
 
 It was the mid-1980s. Everyone was sharing programs on floppy disks.
 Nobody imagined anything could go wrong. Then the viruses came.
@@ -61,19 +41,10 @@ It cannot anymore.
 
 Today we stand at a similar threshold. But the scale of the threat is
 different. And the window to prepare is narrowing.
-:::
-::::
-::::::
-
-:::::: {#b77d .section .section .section--body}
-::: section-divider
 
 ------------------------------------------------------------------------
-:::
 
-:::: section-content
-::: {.section-inner .sectionLayout--insetColumn}
-### The Game-Changer: Open-Source AI on Consumer Hardware {#101e .graf .graf--h3 .graf--leading name="101e"}
+### The Game-Changer: Open-Source AI on Consumer Hardware
 
 If artificial intelligence still lived only in massive data centers, I
 would not be writing this. In that world, an AI-powered virus would be a
@@ -85,21 +56,12 @@ Anyone can download them, run them, fine-tune them. That moved the
 weapons factory into the corner store.
 
 Everything changed at that moment.
-:::
-::::
-::::::
-
-:::::: {#3902 .section .section .section--body}
-::: section-divider
 
 ------------------------------------------------------------------------
-:::
 
-:::: section-content
-::: {.section-inner .sectionLayout--insetColumn}
-### Why Current Defenses Are Structurally Insufficient {#1627 .graf .graf--h3 .graf--leading name="1627"}
+### Why Current Defenses Are Structurally Insufficient
 
-### The Signature-Based Approach {#366c .graf .graf--h3 .graf-after--h3 name="366c"}
+### The Signature-Based Approach
 
 Classic antivirus software searches files for known signatures. If it
 has seen a virus before, it recognizes it. If it has not, it cannot.
@@ -111,7 +73,7 @@ anomaly detection.
 
 The right direction. But one step behind.
 
-### The Sandbox Paradox: Defense Trains the Attacker {#158a .graf .graf--h3 .graf-after--p name="158a"}
+### The Sandbox Paradox: Defense Trains the Attacker
 
 When a virus is caught, the antivirus quarantines it, sends it to a
 central server, analyzes it, and updates the system. A sensible loop.
@@ -127,7 +89,7 @@ protocol.
 The more sophisticated the antivirus, the faster and more efficient the
 reconnaissance.
 
-### Behavioral Analysis Is Blind When There Is No Behavior {#2f1e .graf .graf--h3 .graf-after--p name="2f1e"}
+### Behavioral Analysis Is Blind When There Is No Behavior
 
 Today's AI-assisted antivirus tools look for abnormal behavior. But what
 if the virus does not behave abnormally?
@@ -142,7 +104,7 @@ parent.
 Behavioral analysis is completely blind when there is no behavior to
 analyze.
 
-### Manipulating the Trust Model of AI Assistants {#47ad .graf .graf--h3 .graf-after--p name="47ad"}
+### Manipulating the Trust Model of AI Assistants
 
 Three weeks ago I was looking for a security tool for Ubuntu. Every AI
 assistant I asked, without exception, pointed me to the same place: the
@@ -161,19 +123,10 @@ as trustworthiness. When the day comes, a single malicious update
 reaches thousands of systems simultaneously.
 
 Nobody will understand what happened.
-:::
-::::
-::::::
-
-:::::: {#76e1 .section .section .section--body}
-::: section-divider
 
 ------------------------------------------------------------------------
-:::
 
-:::: section-content
-::: {.section-inner .sectionLayout--insetColumn}
-### The Machine Code Layer: The Invisible Threat {#e3e5 .graf .graf--h3 .graf--leading name="e3e5"}
+### The Machine Code Layer: The Invisible Threat
 
 A security engineer who thinks in Python or C cannot predict what a
 virus trained at the machine code level is capable of.
@@ -197,25 +150,16 @@ It has already been demonstrated that analyzing signals sent and
 received by a WiFi antenna can reveal how many people are in an adjacent
 room and where they are standing. In the machine code world, the word
 "impossible" should be used with great care.
-:::
-::::
-::::::
-
-:::::: {#1450 .section .section .section--body}
-::: section-divider
 
 ------------------------------------------------------------------------
-:::
 
-:::: section-content
-::: {.section-inner .sectionLayout--insetColumn}
-### How to Prepare {#27f7 .graf .graf--h3 .graf--leading name="27f7"}
+### How to Prepare
 
 One thing must be accepted from the start: the first lines of defense
 falling quickly is the most likely scenario. No realistic preparation
 plan can be built without acknowledging this.
 
-### Early Warning Mechanisms {#9e3a .graf .graf--h3 .graf-after--p name="9e3a"}
+### Early Warning Mechanisms
 
 The most critical need is knowing when the first line has fallen. The
 virus moves silently. If it has spread throughout an organization before
@@ -226,7 +170,7 @@ changed, just that something did --- is essential. Technology shifts
 constantly, so the exact form this takes will vary. But without
 something that signals anomaly early, everything else is meaningless.
 
-### Deny the Attacker Familiar Ground {#32f2 .graf .graf--h3 .graf-after--p name="32f2"}
+### Deny the Attacker Familiar Ground
 
 In the 1990s I surrounded my main system with hollow Linux instances.
 Each had only a single port open to the outside. Every piece of software
@@ -237,7 +181,7 @@ A standard environment invites standard attacks. An AI virus will first
 try to map its surroundings. An unexpected architecture forces an
 adaptation period --- and that period is time for the defense.
 
-### Distributed Authority Architecture {#093f .graf .graf--h3 .graf-after--p name="093f"}
+### Distributed Authority Architecture
 
 No single superuser account with full privileges. Something analogous to
 the separation of legislative, executive, and judicial
@@ -246,24 +190,24 @@ control. This architecture must be custom. If it matches a known
 pattern, it can be learned. If it is yours alone, the attacker must
 start from scratch.
 
-### The Vaccine Facility Concept {#a847 .graf .graf--h3 .graf-after--p name="a847"}
+### The Vaccine Facility Concept
 
 Defense only buys time. The real objective is developing a vaccine.
 
 These facilities need specific properties:
 
 - [Complete physical isolation from the outside world. Remember how
-  Stuxnet reached Iran; USB drives are not safe.]{#3311}
-- [Independent power generation. A power cable is a channel.]{#0d5a}
-- [Faraday cage enclosure. Electromagnetic isolation.]{#41b3}
+  Stuxnet reached Iran; USB drives are not safe.]
+- [Independent power generation. A power cable is a channel.]
+- [Faraday cage enclosure. Electromagnetic isolation.]
 - [Multiple facilities operating independently. If one is compromised,
-  it must be shut down. The others continue.]{#b0c1}
+  it must be shut down. The others continue.]
 
 Each facility should run multiple AI antivirus systems with different
 architectures and different learning approaches. A monoculture produces
 only one type of vaccine.
 
-### Progressive Training {#12ec .graf .graf--h3 .graf-after--p name="12ec"}
+### Progressive Training
 
 A weightlifter cannot lift 100 kilograms on the first day. Twenty, then
 thirty, then fifty.
@@ -271,19 +215,10 @@ thirty, then fifty.
 AI antivirus systems must be trained the same way. Deploying an
 unprepared system into active combat destroys it. Training must begin
 now, against progressively more capable adversarial inputs.
-:::
-::::
-::::::
-
-:::::: {#599b .section .section .section--body}
-::: section-divider
 
 ------------------------------------------------------------------------
-:::
 
-:::: section-content
-::: {.section-inner .sectionLayout--insetColumn}
-### The Timeline {#c6f8 .graf .graf--h3 .graf--leading name="c6f8"}
+### The Timeline
 
 A realistic sequence looks like this:
 
@@ -293,19 +228,10 @@ one, vaccine development continues under time pressure. The vaccine must
 be ready before the last line falls.
 
 General Winter is not coming to save you. Do not count on time.
-:::
-::::
-::::::
-
-:::::: {#f6cd .section .section .section--body}
-::: section-divider
 
 ------------------------------------------------------------------------
-:::
 
-:::: section-content
-::: {.section-inner .sectionLayout--insetColumn}
-### A Final Word {#e715 .graf .graf--h3 .graf--leading name="e715"}
+### A Final Word
 
 When radium was discovered, people put it in gold capsules and sold it
 to the wealthy as a revitalizing tonic. Doctors advised pregnant women
@@ -323,31 +249,18 @@ The threat model is not theoretical. The technical foundation exists
 today. The motivation has always existed.
 
 The window to prepare is open. How long it stays open, nobody knows.
-:::
-::::
-::::::
-
-:::::: {#8a2a .section .section .section--body .section--last}
-::: section-divider
 
 ------------------------------------------------------------------------
-:::
 
-:::: section-content
-::: {.section-inner .sectionLayout--insetColumn}
 *The author served as technical director at a critical government
 computing center in the mid-1980s, contributed to writing Turkey's first
 information security standards for the military, and has actively
 followed developments in security for the four decades since.*
-:::
-::::
-::::::
-:::::::::::::::::::::::::::::::::::::::
 
-By [Emin](https://medium.com/@emin2010dan){.p-author .h-card} on [May 9,
+By [Emin](https://medium.com/@emin2010dan) on [May 9,
 2026](https://medium.com/p/9653ed8dd423).
 
 [Canonical
-link](https://medium.com/@emin2010dan/ai-powered-viruses-the-coming-storm-and-how-to-prepare-9653ed8dd423){.p-canonical}
+link](https://medium.com/@emin2010dan/ai-powered-viruses-the-coming-storm-and-how-to-prepare-9653ed8dd423)
 
 Exported from [Medium](https://medium.com) on June 12, 2026.

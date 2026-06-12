@@ -1,30 +1,19 @@
 <div>
 
-# Psychohistory in the Age of AI(Part 2): The Birth of a Science Through Twelve Minds {#psychohistory-in-the-age-of-aipart-2-the-birth-of-a-science-through-twelve-minds .p-name}
+# Psychohistory in the Age of AI(Part 2): The Birth of a Science Through Twelve Minds
 
 </div>
 
-::: {.section .p-summary field="subtitle"}
 Read this article in Turkish: \[Yapay Zeka Çağında Psikotarih(Bölüm 2):
 On İki Zihinle Bir Bilimin Doğuşu\]
-:::
-
-::::::: {.section .e-content field="body"}
-:::::: {#47c9 .section .section .section--body .section--first .section--last}
-::: section-divider
 
 ------------------------------------------------------------------------
-:::
 
-:::: section-content
-::: {.section-inner .sectionLayout--insetColumn}
-### Psychohistory in the Age of AI(Part 2): The Birth of a Science Through Twelve Minds {#fc02 .graf .graf--h3 .graf--leading .graf--title name="fc02"}
+### Psychohistory in the Age of AI(Part 2): The Birth of a Science Through Twelve Minds
 
 Read this article in Turkish: \[[Yapay Zeka Çağında Psikotarih(Bölüm 2):
 On İki Zihinle Bir Bilimin
-Doğuşu](https://medium.com/p/6bdc6dd4f3d0){.markup--anchor
-.markup--p-anchor data-href="https://medium.com/p/6bdc6dd4f3d0"
-target="_blank"}\]
+Doğuşu](https://medium.com/p/6bdc6dd4f3d0)\]
 
 <figure id="4a80" class="graf graf--figure graf-after--p">
 <img src="./images/b6ffc8b93189311d0b2ce5fe40122ec19bdb35f7.png"
@@ -37,12 +26,9 @@ data-width="1408" data-height="768" />
 (Google), Grok (xAI), DeepSeek, Meta AI, Qwen, Kimi, MiniMax, Replit,
 Copilot (Microsoft), Z.ai\
  **GitHub:** [Psychohistory in the Age of
-AI](https://github.com/emin2010dan/Psychohistory-in-the-Age-of-AI){.markup--anchor
-.markup--p-anchor
-data-href="https://github.com/emin2010dan/Psychohistory-in-the-Age-of-AI"
-rel="noopener" target="_blank"}
+AI](https://github.com/emin2010dan/Psychohistory-in-the-Age-of-AI)
 
-### The Beginning: One Idea, Twelve Mirrors {#d024 .graf .graf--h3 .graf-after--p name="d024"}
+### The Beginning: One Idea, Twelve Mirrors
 
 In his *Foundation* series, Isaac Asimov imagined a science capable of
 calculating humanity's future: psychohistory. A science that would
@@ -71,7 +57,7 @@ genuine drafts of psychohistory as a science. Readers interested in the
 mathematical details can follow the GitHub link under each section
 heading.
 
-### Why Psychohistory, and Why Now? {#e4ba .graf .graf--h3 .graf-after--p name="e4ba"}
+### Why Psychohistory, and Why Now?
 
 Artificial intelligence is creating unemployment. This is not an
 ordinary economic problem --- engineers, programmers, and analysts who
@@ -82,16 +68,11 @@ that determines which direction it flows is **hope**.
 In earlier articles I examined this danger in detail:
 
 - [[The Risk of Digital Collapse in the Age of
-  AI](https://medium.com/p/9653ed8dd423){.markup--anchor
-  .markup--li-anchor data-href="https://medium.com/p/9653ed8dd423"
-  target="_blank"} --- Digital destruction scenarios that displaced
-  technical talent could produce using local AI models.]{#434c}
+  AI](https://medium.com/p/9653ed8dd423) --- Digital destruction scenarios that displaced
+  technical talent could produce using local AI models.]
 - [[DistributedMind Protocol: Designing an Ecosystem of
-  Hope](https://medium.com/@emin2010dan/distributedmind-protocol-232d67221e33){.markup--anchor
-  .markup--li-anchor
-  data-href="https://medium.com/@emin2010dan/distributedmind-protocol-232d67221e33"
-  target="_blank"} --- A distributed, federated AI ecosystem proposal to
-  prevent that collapse.]{#770f}
+  Hope](https://medium.com/@emin2010dan/distributedmind-protocol-232d67221e33) --- A distributed, federated AI ecosystem proposal to
+  prevent that collapse.]
 
 Psychohistory is the science that connects these two points: the
 mathematical framework needed both to see the danger coming and to
@@ -102,7 +83,7 @@ millions. You cannot know where a single molecule of gas will go --- but
 you can calculate the pressure, temperature, and volume of the gas
 itself. The same logic applies to societies.
 
-### Three Foundational Observations {#eb8c .graf .graf--h3 .graf-after--p name="eb8c"}
+### Three Foundational Observations
 
 All twelve articles converge on three core observations.
 
@@ -126,9 +107,9 @@ destructive is determined by the hope parameter. High motivation plus
 low hope: brain drain, capital flight, digital sabotage. High motivation
 plus high hope: innovation, construction, breakthrough.
 
-### Twelve Approaches {#727b .graf .graf--h3 .graf-after--p name="727b"}
+### Twelve Approaches
 
-### [ChatGPT: The Environment Variable and the Residual Signal Method](https://github.com/emin2010dan/Psychohistory-in-the-Age-of-AI/blob/main/Project%20with%20ChatGPT.md){.markup--anchor .markup--h3-anchor data-href="https://github.com/emin2010dan/Psychohistory-in-the-Age-of-AI/blob/main/Project%20with%20ChatGPT.md" rel="noopener" target="_blank"} {#1b03 .graf .graf--h3 .graf-after--h3 name="1b03"}
+### [ChatGPT: The Environment Variable and the Residual Signal Method](https://github.com/emin2010dan/Psychohistory-in-the-Age-of-AI/blob/main/Project%20with%20ChatGPT.md)
 
 ChatGPT laid the methodological skeleton of psychohistory. Its most
 important contribution was this observation: measuring historical waves
@@ -146,7 +127,7 @@ hegemonic cycles) are subtracted from a time series, what remains is the
 space where unnamed new patterns are hiding. For the mathematical
 formulation, see the GitHub page.
 
-### [Claude: The Painted Swan Theorem and the Cohort Matrix](https://github.com/emin2010dan/Psychohistory-in-the-Age-of-AI/blob/main/Project%20with%20Claude.md){.markup--anchor .markup--h3-anchor data-href="https://github.com/emin2010dan/Psychohistory-in-the-Age-of-AI/blob/main/Project%20with%20Claude.md" rel="noopener" target="_blank"} {#c339 .graf .graf--h3 .graf-after--p name="c339"}
+### [Claude: The Painted Swan Theorem and the Cohort Matrix](https://github.com/emin2010dan/Psychohistory-in-the-Age-of-AI/blob/main/Project%20with%20Claude.md)
 
 Claude systematically framed all the layers of psychohistory --- time
 normalization, cultural code matrix, and generational lag
@@ -172,7 +153,7 @@ Turkey's education system after 1980 producing political consequences in
 2002 is a real-world example of this lag. For all formulas, see the
 GitHub page.
 
-### [Gemini: The Phase-Transition Equation and Multi-Agent Simulation](https://github.com/emin2010dan/Psychohistory-in-the-Age-of-AI/blob/main/Project%20with%20Gemini.md){.markup--anchor .markup--h3-anchor data-href="https://github.com/emin2010dan/Psychohistory-in-the-Age-of-AI/blob/main/Project%20with%20Gemini.md" rel="noopener" target="_blank"} {#72f0 .graf .graf--h3 .graf-after--p name="72f0"}
+### [Gemini: The Phase-Transition Equation and Multi-Agent Simulation](https://github.com/emin2010dan/Psychohistory-in-the-Age-of-AI/blob/main/Project%20with%20Gemini.md)
 
 Gemini's contribution was twofold: theoretical and architectural.
 
@@ -195,7 +176,7 @@ rises. The multi-agent structure simulating these three groups is
 balanced by passing it through a neutral secretary LLM layer. For the
 complete formulas, see the GitHub page.
 
-### [Grok: Wave Superposition and the Motivational Driving Force](https://github.com/emin2010dan/Psychohistory-in-the-Age-of-AI/blob/main/Project%20with%20Grok.md){.markup--anchor .markup--h3-anchor data-href="https://github.com/emin2010dan/Psychohistory-in-the-Age-of-AI/blob/main/Project%20with%20Grok.md" rel="noopener" target="_blank"} {#789f .graf .graf--h3 .graf-after--p name="789f"}
+### [Grok: Wave Superposition and the Motivational Driving Force](https://github.com/emin2010dan/Psychohistory-in-the-Age-of-AI/blob/main/Project%20with%20Grok.md)
 
 Grok modeled societal stability as the superposition of many interacting
 waves. Each wave has amplitude, frequency, and phase; these are
@@ -212,7 +193,7 @@ innovation --- the pressure cooker goes to explosion rather than
 turbine. For the mathematical expression of this formula, see the GitHub
 page.
 
-### [DeepSeek: Differential Equations and Future Scenarios](https://github.com/emin2010dan/Psychohistory-in-the-Age-of-AI/blob/main/Project%20with%20DeepSeek.md){.markup--anchor .markup--h3-anchor data-href="https://github.com/emin2010dan/Psychohistory-in-the-Age-of-AI/blob/main/Project%20with%20DeepSeek.md" rel="noopener" target="_blank"} {#2142 .graf .graf--h3 .graf-after--p name="2142"}
+### [DeepSeek: Differential Equations and Future Scenarios](https://github.com/emin2010dan/Psychohistory-in-the-Age-of-AI/blob/main/Project%20with%20DeepSeek.md)
 
 DeepSeek framed psychohistory as a system of differential equations. As
 debt burden and military overextension rise, collapse risk increases; as
@@ -228,7 +209,7 @@ harder to reverse than to prevent. The article also evaluated rough
 scenarios for 2025--2035 for the United States, China, Europe, and
 Turkey within this framework. For all equations, see the GitHub page.
 
-### [Meta AI: The Physical Wave Model and Cultural Viscosity](https://github.com/emin2010dan/Psychohistory-in-the-Age-of-AI/blob/main/Project%20with%20Meta.md){.markup--anchor .markup--h3-anchor data-href="https://github.com/emin2010dan/Psychohistory-in-the-Age-of-AI/blob/main/Project%20with%20Meta.md" rel="noopener" target="_blank"} {#c746 .graf .graf--h3 .graf-after--p name="c746"}
+### [Meta AI: The Physical Wave Model and Cultural Viscosity](https://github.com/emin2010dan/Psychohistory-in-the-Age-of-AI/blob/main/Project%20with%20Meta.md)
 
 Meta AI modeled history as a physical wave equation, adding cultural
 code and emotional mode layer by layer. It expressed the concept of
@@ -244,7 +225,7 @@ authority. No survey can yield this data; but the gold carries this
 truth silently. For the full mathematical expression of the wave
 equations, see the GitHub page.
 
-### [Qwen: The Spectral Integrity Principle and the ReLU Prohibition](https://github.com/emin2010dan/Psychohistory-in-the-Age-of-AI/blob/main/Project%20with%20Qwen.md){.markup--anchor .markup--h3-anchor data-href="https://github.com/emin2010dan/Psychohistory-in-the-Age-of-AI/blob/main/Project%20with%20Qwen.md" rel="noopener" target="_blank"} {#6e0e .graf .graf--h3 .graf-after--p name="6e0e"}
+### [Qwen: The Spectral Integrity Principle and the ReLU Prohibition](https://github.com/emin2010dan/Psychohistory-in-the-Age-of-AI/blob/main/Project%20with%20Qwen.md)
 
 Qwen's most original contribution was a technical but foundational
 argument: the **ReLU prohibition**. The ReLU activation function
@@ -263,7 +244,7 @@ the system's Lyapunov exponent turns positive and the phases of the
 component waves approach opposition. For the complete formula, see the
 GitHub page.
 
-### [Kimi: Data Reliability Layers and the Mode Fracture](https://github.com/emin2010dan/Psychohistory-in-the-Age-of-AI/blob/main/Project%20with%20Kimi.md){.markup--anchor .markup--h3-anchor data-href="https://github.com/emin2010dan/Psychohistory-in-the-Age-of-AI/blob/main/Project%20with%20Kimi.md" rel="noopener" target="_blank"} {#6924 .graf .graf--h3 .graf-after--p name="6924"}
+### [Kimi: Data Reliability Layers and the Mode Fracture](https://github.com/emin2010dan/Psychohistory-in-the-Age-of-AI/blob/main/Project%20with%20Kimi.md)
 
 Kimi's most valuable contribution lay in data philosophy as much as
 mathematics. It classified historical data into six reliability layers:
@@ -283,7 +264,7 @@ percent pressure, that gap is a warning signal. It demonstrated this
 fracture with concrete data from the Turkish example. For the
 mathematical expression of the wave formula, see the GitHub page.
 
-### [MiniMax: The Seven-Stage Collapse Cycle and Measurable Thresholds](https://github.com/emin2010dan/Psychohistory-in-the-Age-of-AI/blob/main/Project%20with%20MiniMax.md){.markup--anchor .markup--h3-anchor data-href="https://github.com/emin2010dan/Psychohistory-in-the-Age-of-AI/blob/main/Project%20with%20MiniMax.md" rel="noopener" target="_blank"} {#a8d7 .graf .graf--h3 .graf-after--p name="a8d7"}
+### [MiniMax: The Seven-Stage Collapse Cycle and Measurable Thresholds](https://github.com/emin2010dan/Psychohistory-in-the-Age-of-AI/blob/main/Project%20with%20MiniMax.md)
 
 MiniMax offered the most systematic classification of historical
 patterns. It divided imperial collapses into seven stages: military
@@ -303,7 +284,7 @@ Rentenmark move, Japan's zero interest rate policy --- each produced
 different results at different stages. For the complete mathematical
 representation of the cycles, see the GitHub page.
 
-### [Replit: The Resonance Trap and Memory Decay](https://github.com/emin2010dan/Psychohistory-in-the-Age-of-AI/blob/main/Project%20with%20Replit.md){.markup--anchor .markup--h3-anchor data-href="https://github.com/emin2010dan/Psychohistory-in-the-Age-of-AI/blob/main/Project%20with%20Replit.md" rel="noopener" target="_blank"} {#e83d .graf .graf--h3 .graf-after--p name="e83d"}
+### [Replit: The Resonance Trap and Memory Decay](https://github.com/emin2010dan/Psychohistory-in-the-Age-of-AI/blob/main/Project%20with%20Replit.md)
 
 Replit introduced two original concepts. The first was the **resonance
 trap**: when two waves operating at different frequencies act on a
@@ -323,7 +304,7 @@ repeats the same mistakes across generations: when memory resets, the
 cycle begins again. For the mathematical representation of the formulas,
 see the GitHub page.
 
-### [Copilot: The Six-Parameter Core and the Pilot Plan](https://github.com/emin2010dan/Psychohistory-in-the-Age-of-AI/blob/main/Project%20with%20Copilot.md){.markup--anchor .markup--h3-anchor data-href="https://github.com/emin2010dan/Psychohistory-in-the-Age-of-AI/blob/main/Project%20with%20Copilot.md" rel="noopener" target="_blank"} {#9aaf .graf .graf--h3 .graf-after--p name="9aaf"}
+### [Copilot: The Six-Parameter Core and the Pilot Plan](https://github.com/emin2010dan/Psychohistory-in-the-Age-of-AI/blob/main/Project%20with%20Copilot.md)
 
 Copilot organized the core of the psychohistory model around six
 parameters: Motivation Index, Hope Index, Mechanism-Scaled Time,
@@ -342,7 +323,7 @@ road map for turning psychohistory from abstract theory into a testable
 science. For the mathematical expression of the parameters, see the
 GitHub page.
 
-### [Z.ai: The Social Physics Equation and the Helium/Molasses Culture Distinction](https://github.com/emin2010dan/Psychohistory-in-the-Age-of-AI/blob/main/Project%20with%20Z.ai.md){.markup--anchor .markup--h3-anchor data-href="https://github.com/emin2010dan/Psychohistory-in-the-Age-of-AI/blob/main/Project%20with%20Z.ai.md" rel="noopener" target="_blank"} {#2dfc .graf .graf--h3 .graf-after--p name="2dfc"}
+### [Z.ai: The Social Physics Equation and the Helium/Molasses Culture Distinction](https://github.com/emin2010dan/Psychohistory-in-the-Age-of-AI/blob/main/Project%20with%20Z.ai.md)
 
 Z.ai offered the most comprehensive synthesis by unifying all parameters
 in a single social physics equation. The components of the equation can
@@ -363,7 +344,7 @@ category. The same external shock produces fundamentally different
 outcomes in these two culture types. For the mathematical expression of
 the equation, see the GitHub page.
 
-### Shared Parameters: Where Twelve Minds Converge {#93d4 .graf .graf--h3 .graf-after--p name="93d4"}
+### Shared Parameters: Where Twelve Minds Converge
 
 Although each approach uses a different mathematical language, six
 parameters recur across all twelve articles. These form the core of
@@ -400,7 +381,7 @@ political pressure. Bazaar prices, under-the-mattress gold, passport
 applications, birth rates, and gravestones do not lie. Psychohistory
 prefers these to official figures.
 
-### Which Approach Is More Accurate? An Answer That Awaits Experiment {#1630 .graf .graf--h3 .graf-after--p name="1630"}
+### Which Approach Is More Accurate? An Answer That Awaits Experiment
 
 The most honest statement about this project is this: we do not yet know
 whose model is closest to reality. That knowledge can only be obtained
@@ -421,7 +402,7 @@ credibility coefficients to data, measuring model predictive performance
 with standard metrics, and extracting at least one new parameter from
 every failed forecast.
 
-### Intervention: Seeing the Future Is Not Enough {#8b06 .graf .graf--h3 .graf-after--p name="8b06"}
+### Intervention: Seeing the Future Is Not Enough
 
 The most valuable use of psychohistory is not prophecy. It is
 calculating how to move from the "bad scenario" to the "good scenario"
@@ -435,13 +416,10 @@ hope variable upward in the psychohistory model and redirect
 motivational energy from destruction toward innovation.
 
 I detailed this ecosystem in [a previous
-work](https://medium.com/@emin2010dan/distributedmind-protocol-232d67221e33){.markup--anchor
-.markup--p-anchor
-data-href="https://medium.com/@emin2010dan/distributedmind-protocol-232d67221e33"
-target="_blank"}. Psychohistory provides the theoretical foundation that
+work](https://medium.com/@emin2010dan/distributedmind-protocol-232d67221e33). Psychohistory provides the theoretical foundation that
 ecosystem requires.
 
-### Conclusion: The First Steps of a Science {#89fc .graf .graf--h3 .graf-after--p name="89fc"}
+### Conclusion: The First Steps of a Science
 
 Twelve AI systems opened twelve different mathematical windows around
 the same idea. None is complete on its own. Taken together, they form
@@ -455,19 +433,12 @@ But he had to start somewhere.
 
 *The mathematical formulas and technical details of all articles are
 available in the* [*GitHub
-repository*](https://github.com/emin2010dan/Psychohistory-in-the-Age-of-AI){.markup--anchor
-.markup--p-anchor
-data-href="https://github.com/emin2010dan/Psychohistory-in-the-Age-of-AI"
-rel="noopener" target="_blank"}*.*
-:::
-::::
-::::::
-:::::::
+repository*](https://github.com/emin2010dan/Psychohistory-in-the-Age-of-AI)*.*
 
-By [Emin](https://medium.com/@emin2010dan){.p-author .h-card} on [May
+By [Emin](https://medium.com/@emin2010dan) on [May
 25, 2026](https://medium.com/p/18804c03a56b).
 
 [Canonical
-link](https://medium.com/@emin2010dan/psychohistory-in-the-age-of-ai-part-2-the-birth-of-a-science-through-twelve-minds-18804c03a56b){.p-canonical}
+link](https://medium.com/@emin2010dan/psychohistory-in-the-age-of-ai-part-2-the-birth-of-a-science-through-twelve-minds-18804c03a56b)
 
 Exported from [Medium](https://medium.com) on June 12, 2026.

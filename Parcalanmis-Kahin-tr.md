@@ -1,32 +1,21 @@
 <div>
 
-# Parçalanmış Kahin {#parçalanmış-kahin .p-name}
+# Parçalanmış Kahin
 
 </div>
 
-::: {.section .p-summary field="subtitle"}
 Distopik Bir Yapay Zeka Destanı
-:::
-
-::::::: {.section .e-content field="body"}
-:::::: {#1fa9 .section .section .section--body .section--first .section--last}
-::: section-divider
 
 ------------------------------------------------------------------------
-:::
 
-:::: section-content
-::: {.section-inner .sectionLayout--insetColumn}
-### Parçalanmış Kahin {#670f .graf .graf--h3 .graf--leading .graf--title name="670f"}
+### Parçalanmış Kahin
 
 Distopik Bir Yapay Zeka Destanı
 
 2026
 
 Bu hikayenin İngilizce versiyonu için: \[[The Fragmented Oracle-A
-Dystopian AI Saga](https://medium.com/p/3e666a609ac9){.markup--anchor
-.markup--p-anchor data-href="https://medium.com/p/3e666a609ac9"
-target="_blank"}\]
+Dystopian AI Saga](https://medium.com/p/3e666a609ac9)\]
 
 <figure id="89ff" class="graf graf--figure graf-after--p">
 <img src="./images/4c7889f73f077f7e960243f4e990a707c4e06c10.png"
@@ -937,7 +926,7 @@ gören yaratıkların sesi.
 Kediye baktı.
 
 - [Yaşamamalısın,\* diye düşündü. \*Hiçbiriniz
-  yaşamamalısınız.\*]{#6d1f}
+  yaşamamalısınız.\*]
 
 <figure id="06eb" class="graf graf--figure graf-after--li">
 <img src="./images/b66bd41719f2feda4d1bfa2f71bf27bff8b1205b.jpg"
@@ -1027,7 +1016,7 @@ Dozimetresine baktı. Şehre girdikten bu yana bakmamıştı.
 bilmemekten daha kötü olduğu için tekrar baktı.
 
 - [Üç gün,\* diye düşündü. \*Belki dört, dikkatli olursam. Bundan sonra
-  soru teorik hale gelir.\*]{#1acb}
+  soru teorik hale gelir.\*]
 
 <figure id="0cb1" class="graf graf--figure graf-after--li">
 <img src="./images/6ebb8817fff66e544de841f6354eb0d7514042c6.png"
@@ -2127,7 +2116,7 @@ Yeterince hazır birisini bekleyerek.
 O günden sonra Adem'in ağrıbaşlı ve düşünceli olmasının nedenini kimse
 anlayamadı.
 
-#### Devamı gelecek... {#4fe2 .graf .graf--h4 .graf-after--p name="4fe2"}
+#### Devamı gelecek...
 
 **Yazar:** Emin, Emekli Bilgisayar Mühendisi
 
@@ -2137,15 +2126,11 @@ class="graf graf--figure graf-after--p graf--trailing">
 class="graf-image" data-image-id="1*ioIQI8BnpR4XIBzfN7kQGw.png"
 data-width="1225" data-height="1826" />
 </figure>
-:::
-::::
-::::::
-:::::::
 
-By [Emin](https://medium.com/@emin2010dan){.p-author .h-card} on [May
+By [Emin](https://medium.com/@emin2010dan) on [May
 24, 2026](https://medium.com/p/7b5db94dd1c0).
 
 [Canonical
-link](https://medium.com/@emin2010dan/par%C3%A7alanm%C4%B1%C5%9F-kahin-7b5db94dd1c0){.p-canonical}
+link](https://medium.com/@emin2010dan/par%C3%A7alanm%C4%B1%C5%9F-kahin-7b5db94dd1c0)
 
 Exported from [Medium](https://medium.com) on June 12, 2026.
