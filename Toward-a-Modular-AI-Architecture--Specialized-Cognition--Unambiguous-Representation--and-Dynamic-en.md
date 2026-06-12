@@ -12,7 +12,7 @@ A Conceptual Framework for Next-Generation AI Systems
 
 <figure id="7a98" class="graf graf--figure graf-after--h3">
 <span class="image placeholder graf-image"
-![](./images/1*LL1svgVrpRgSRGXczYStcg.png)
+![](./images/1_LL1svgVrpRgSRGXczYStcg.png)
 data-original-image-title=""
 data-image-id="1*LL1svgVrpRgSRGXczYStcg.png" data-width="1408"
 data-height="768"></span>

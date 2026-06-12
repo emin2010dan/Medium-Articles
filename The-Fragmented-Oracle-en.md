@@ -19,7 +19,7 @@ Destanı](https://medium.com/p/7b5db94dd1c0)\]
 
 <figure id="00bc" class="graf graf--figure graf-after--p">
 <span class="image placeholder graf-image"
-![](./images/1*mU-Vfa0m5vJsLvuPwOPJwA.png)
+![](./images/1_mU-Vfa0m5vJsLvuPwOPJwA.png)
 data-original-image-title=""
 data-image-id="1*mU-Vfa0m5vJsLvuPwOPJwA.png" data-width="1693"
 data-height="1866"></span>
@@ -34,7 +34,7 @@ future scene?
 
 <figure id="a038" class="graf graf--figure graf-after--p">
 <span class="image placeholder graf-image"
-![](./images/1*Yo1jL7UuKRAUBqZ7unAIWQ.png)
+![](./images/1_Yo1jL7UuKRAUBqZ7unAIWQ.png)
 data-original-image-title=""
 data-image-id="1*Yo1jL7UuKRAUBqZ7unAIWQ.png" data-width="2816"
 data-height="1536"></span>
@@ -73,7 +73,7 @@ Chat..ai: .....
 
 <figure id="8e6b" class="graf graf--figure graf-after--p">
 <span class="image placeholder graf-image"
-![](./images/1*IwIjqpMGAuZrOZGHT3Y_qA.png)
+![](./images/1_IwIjqpMGAuZrOZGHT3Y_qA.png)
 data-original-image-title=""
 data-image-id="1*IwIjqpMGAuZrOZGHT3Y_qA.png" data-width="2816"
 data-height="1536"></span>
@@ -175,7 +175,7 @@ Chat..ai: Deal, ChinChin. Bye.
 
 <figure id="6d60" class="graf graf--figure graf-after--p">
 <span class="image placeholder graf-image"
-![](./images/1*Qu27WRssCZYNUa9W_T4bgw.png)
+![](./images/1_Qu27WRssCZYNUa9W_T4bgw.png)
 data-original-image-title=""
 data-image-id="1*Qu27WRssCZYNUa9W_T4bgw.png" data-width="2816"
 data-height="1536"></span>

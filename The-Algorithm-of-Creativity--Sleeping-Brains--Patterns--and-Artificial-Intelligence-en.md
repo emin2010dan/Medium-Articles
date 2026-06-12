@@ -17,7 +17,7 @@ Author: Emin Contributor: Claude (Anthropic)
 <figure id="d10d"
 class="graf graf--figure graf-after--p graf--trailing">
 <span class="image placeholder graf-image"
-![](./images/1*vFld7K0fK0y3I5Nu9SC3Pw.png)
+![](./images/1_vFld7K0fK0y3I5Nu9SC3Pw.png)
 data-original-image-title=""
 data-image-id="1*vFld7K0fK0y3I5Nu9SC3Pw.png" data-width="1024"
 data-height="559"></span>
@@ -342,7 +342,7 @@ articulating them in written form.
 
 <figure id="22b0" class="graf graf--figure graf-after--p">
 <span class="image placeholder graf-image"
-![](./images/1*N3Qp_DfxiJC3JKFUHsCmGg.png)
+![](./images/1_N3Qp_DfxiJC3JKFUHsCmGg.png)
 data-original-image-title=""
 data-image-id="1*N3Qp_DfxiJC3JKFUHsCmGg.png" data-width="1408"
 data-height="768"></span>
