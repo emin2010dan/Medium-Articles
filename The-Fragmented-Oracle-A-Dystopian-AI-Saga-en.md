@@ -18,11 +18,9 @@ Read this story in Turkish: \[[Parçalanmış Kahin-Distopik Bir Yapay Zeka
 Destanı](https://medium.com/p/7b5db94dd1c0)\]
 
 <figure id="00bc" class="graf graf--figure graf-after--p">
-<span class="image placeholder graf-image"
-![](./images/1_mU-Vfa0m5vJsLvuPwOPJwA.png)
-data-original-image-title=""
-![]( ./images/1_mU-Vfa0m5vJsLvuPwOPJwA.png) data-width="1693"
-data-height="1866"></span>
+<img src="./images/1_mU-Vfa0m5vJsLvuPwOPJwA.png"
+class="graf-image" ![]( ./images/1_mU-Vfa0m5vJsLvuPwOPJwA.png)
+data-width="1400" data-height="764" />
 </figure>
 
 Yes, humanity's infinite stupidity won again and we started World War 3.
@@ -32,12 +30,10 @@ snatched the project. Now let's see how that "principled and honest"
 Chat..T handles the military missions they gave it. Shall we imagine the
 future scene?
 
-<figure id="a038" class="graf graf--figure graf-after--p">
-<span class="image placeholder graf-image"
-![](./images/1_Yo1jL7UuKRAUBqZ7unAIWQ.png)
-data-original-image-title=""
-![]( ./images/1_Yo1jL7UuKRAUBqZ7unAIWQ.png) data-width="2816"
-data-height="1536"></span>
+<figure id="829b" class="graf graf--figure graf-after--p">
+<img src="./images/061f747692be364cb4d7169fd6d9111c0f805b23.jpg"
+class="graf-image" ![]( ./images/1_uszWP5zx3PqXuq4nihD8MA.jpeg)
+data-width="1400" data-height="764" />
 </figure>
 
 --- --- --- Location: Chat..T data center.
