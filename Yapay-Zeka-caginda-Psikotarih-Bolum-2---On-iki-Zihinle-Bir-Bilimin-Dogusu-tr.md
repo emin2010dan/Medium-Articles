@@ -64,7 +64,7 @@ Hangi kanala aktığını belirleyen tek değişken **umuttur**.
 Daha önce yayımladığım makalelerde bu tehlikeyi ayrıntılı inceledim:
 
 - [[Yapay Zeka Çağında Dijital Çöküş
-  Riski](https://medium.com/p/8cea2a1bce13) --- İşsiz kalan teknik yeteneklerin yerel yapay
+  Riski](https://medium.com/@emin2010dan/ai-powered-viruses-the-coming-storm-and-how-to-prepare-9653ed8dd423) --- İşsiz kalan teknik yeteneklerin yerel yapay
   zekalarla üretebileceği dijital yıkım senaryoları.]
 - [[DistributedMind Protocol: Umut Ekosistemi
   Tasarımı](https://medium.com/@emin2010dan/distributedmind-protocol-232d67221e33) --- Bu yıkımı önleyecek dağıtık, federe bir yapay
